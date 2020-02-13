@@ -21,7 +21,7 @@ set key bottom right box
 set output 'overview.eps'
 
 plot 'R_0.txt' u ($1*1e-6):($2+30) with lines ls 1 title "R=0",\
- 'R_low.txt' u ($1*1e-6):($2+30) with lines ls 2  title "R=low",\
- 'R_match.txt' u ($1*1e-6):($2+30) with lines ls 3 title "R=match",\
- 'R_high.txt' u ($1*1e-6):($2+30) with lines ls 4  title "R=high",\
- 'R_very_high.txt' u ($1*1e-6):($2+30) with lines ls 5 title "R=inf"
+ 'R_low.txt' u ($1*1e-6):($2+30) with lines ls 2  title "R=150k",\
+ 'R_match.txt' u ($1*1e-6):($2+30) with lines ls 3 title "R=275k",\
+ 'R_high.txt' u ($1*1e-6):($2+30) with lines ls 4  title "R=400k",\
+ 'R_very_high.txt' u ($1*1e-6):($2+30) with lines ls 5 title "R=1M"

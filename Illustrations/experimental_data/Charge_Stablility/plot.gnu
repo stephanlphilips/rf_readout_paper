@@ -1,6 +1,8 @@
 set terminal postscript eps size 5,4 enhanced color \
     font 'Helvetica,18' linewidth 2
 
+# set terminal svg size 600,500 enhanced font 'Helvetica, 14' linewidth 2
+
 set palette defined ( 0 '#B2182B',\
     	    	      1 '#D6604D',\
 		      2 '#F4A582',\
@@ -17,7 +19,7 @@ set view map scale 1
 set pm3d implicit at b
 set pm3d interpolate 0,0 
 
-set output 'CSD.eps'
+set output 'CSD_test.eps'
 
 set xlabel "vP4 (mV)"
 set ylabel "vP3 (mV)"
@@ -26,4 +28,6 @@ set cblabel "Reflelected signal (a.u.)"
 set xrange[2030:2170]
 set yrange[1665:1725]
 
+plot 'gates_quad_vP3_set_vP4_set.dat' u ($2+2100):($1):( ($3 + $4)*0.01) with image notitle
+set output 'CSD_test2.eps'
 splot 'gates_quad_vP3_set_vP4_set.dat' u ($2+2100):($1):( ($3 + $4)*0.01) with pm3d notitle

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  12 FEB 2020 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  13 FEB 2020 19:06
 entering extended mode
-**"C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/RF readout paper/mai
+**"C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/rf_readout_paper/mai
 n.tex"
 
-("C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/RF readout paper/main
+("C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/rf_readout_paper/main
 .tex"
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
@@ -166,182 +166,182 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 460.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 13--18
+Underfull \hbox (badness 10000) in paragraph at lines 13--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--18
+Underfull \hbox (badness 10000) in paragraph at lines 13--24
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
+(Font)              <5> on input line 30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
  []
 
 [1
 
 {C:/Users/V2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 45--58
+Underfull \hbox (badness 10000) in paragraph at lines 57--70
 
  []
 
 [3]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
-9.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+1.
  ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 Package epstopdf Info: Source file: <Illustrations/Overview/overview.eps>
-(epstopdf)                    date: 2020-02-12 12:58:29
-(epstopdf)                    size: 13842578 bytes
+(epstopdf)                    date: 2020-02-13 13:30:10
+(epstopdf)                    size: 20380550 bytes
 (epstopdf)             Output file: <Illustrations/Overview/overview-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2020-02-12 13:00:01
-(epstopdf)                    size: 687349 bytes
+(epstopdf)                    date: 2020-02-13 13:58:13
+(epstopdf)                    size: 1295700 bytes
 (epstopdf)             Command: <epstopdf --outfile=Illustrations/Overview/over
 view-eps-converted-to.pdf Illustrations/Overview/overview.eps>
-(epstopdf)             \includegraphics on input line 69.
+(epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Illustrations/Overview/overview-eps-converted-
 to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
 wed
-<Illustrations/Overview/overview-eps-converted-to.pdf, id=18, 2235.35126pt x 15
-57.82pt>
+<Illustrations/Overview/overview-eps-converted-to.pdf, id=18, 2236.355pt x 1606
+.0pt>
 File: Illustrations/Overview/overview-eps-converted-to.pdf Graphic file (type p
 df)
 <use Illustrations/Overview/overview-eps-converted-to.pdf>
 Package pdftex.def Info: Illustrations/Overview/overview-eps-converted-to.pdf  
-used on input line 69.
-(pdftex.def)             Requested size: 424.58624pt x 295.8938pt.
-<Illustrations/Theory_figure/theory_delft_v2.pdf, id=19, 1403.31271pt x 394.974
-61pt>
-File: Illustrations/Theory_figure/theory_delft_v2.pdf Graphic file (type pdf)
-<use Illustrations/Theory_figure/theory_delft_v2.pdf>
-Package pdftex.def Info: Illustrations/Theory_figure/theory_delft_v2.pdf  used 
-on input line 76.
-(pdftex.def)             Requested size: 424.58624pt x 119.5058pt.
+used on input line 81.
+(pdftex.def)             Requested size: 424.58624pt x 304.89812pt.
+<Illustrations/Theory_figure/theory_delft_v3.pdf, id=19, 913.56812pt x 394.9746
+1pt>
+File: Illustrations/Theory_figure/theory_delft_v3.pdf Graphic file (type pdf)
+<use Illustrations/Theory_figure/theory_delft_v3.pdf>
+Package pdftex.def Info: Illustrations/Theory_figure/theory_delft_v3.pdf  used 
+on input line 88.
+(pdftex.def)             Requested size: 424.58624pt x 183.56487pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 92.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 92.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--87
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--112
+Underfull \hbox (badness 10000) in paragraph at lines 92--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--112
+Underfull \hbox (badness 10000) in paragraph at lines 114--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--112
+Underfull \hbox (badness 10000) in paragraph at lines 114--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--112
+Underfull \hbox (badness 10000) in paragraph at lines 114--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--124
 
  []
 
 [4] [5 <./Illustrations/Overview/overview-eps-converted-to.pdf>] [6 <./Illustra
-tions/Theory_figure/theory_delft_v2.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 117--122
+tions/Theory_figure/theory_delft_v3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--122
+Underfull \hbox (badness 10000) in paragraph at lines 129--134
 
  []
 
 [7]
 Package epstopdf Info: Source file: <Illustrations/Performance_figure/performan
 ce.eps>
-(epstopdf)                    date: 2020-02-11 10:06:52
-(epstopdf)                    size: 12515986 bytes
+(epstopdf)                    date: 2020-02-13 14:20:18
+(epstopdf)                    size: 2885938 bytes
 (epstopdf)             Output file: <Illustrations/Performance_figure/performan
 ce-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-02-11 10:08:33
-(epstopdf)                    size: 3800968 bytes
+(epstopdf)                    date: 2020-02-13 14:21:39
+(epstopdf)                    size: 264597 bytes
 (epstopdf)             Command: <epstopdf --outfile=Illustrations/Performance_f
 igure/performance-eps-converted-to.pdf Illustrations/Performance_figure/perform
 ance.eps>
-(epstopdf)             \includegraphics on input line 125.
+(epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Illustrations/Performance_figure/performance-e
 ps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
 on <1.5> allowed
-<Illustrations/Performance_figure/performance-eps-converted-to.pdf, id=431, 858
-.20625pt x 624.3325pt>
+<Illustrations/Performance_figure/performance-eps-converted-to.pdf, id=337, 851
+.18pt x 644.4075pt>
 File: Illustrations/Performance_figure/performance-eps-converted-to.pdf Graphic
  file (type pdf)
 <use Illustrations/Performance_figure/performance-eps-converted-to.pdf>
 Package pdftex.def Info: Illustrations/Performance_figure/performance-eps-conve
-rted-to.pdf  used on input line 125.
-(pdftex.def)             Requested size: 424.58624pt x 308.87883pt.
+rted-to.pdf  used on input line 137.
+(pdftex.def)             Requested size: 424.58624pt x 321.44583pt.
 [8] [9 <./Illustrations/Performance_figure/performance-eps-converted-to.pdf>]
 (main.aux) ) 
 Here is how much of TeX's memory you used:
  2136 strings out of 492484
  31851 string characters out of 3122960
- 116889 words of memory out of 3000000
+ 116858 words of memory out of 3000000
  6458 multiletter control sequences out of 15000+200000
  6981 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,37p,1709b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,37p,1721b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/
@@ -356,9 +356,9 @@ ts/cm/cmr7.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmr8.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (9 pages, 6218474 bytes).
+Output written on main.pdf (9 pages, 3017652 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
+ 397 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
