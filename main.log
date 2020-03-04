@@ -1,364 +1,644 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.9)  13 FEB 2020 19:06
-entering extended mode
-**"C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/rf_readout_paper/mai
-n.tex"
-
-("C:/Users/V2/Google Drive/PhD_active/5_dot_sample/Papers/rf_readout_paper/main
-.tex"
-LaTeX2e <2019-10-01> patch level 3
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
-)
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2018.1.18)  4 MAR 2020 11:26
+ restricted system commands enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /Users/stephan/Library/texlive/2017/texmf-var/luate
+x-cache/generic)(using read cache: /usr/local/texlive/2017/texmf-var/luatex-cach
+e/generic /Users/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /Users/stephan/Library/texlive/2017/
+texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/local/texlive/2017/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /Users/stephan/Library/texlive/2017/
+texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.131 seconds
+Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /Users/stephan/Library/texlive
+/2017/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /Users
+/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10
+-regular.luc))
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/luababel.def
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 122.
+\l@nohyphenation=\language3
+\l@german-x-2017-03-31=\language4
+\l@ngerman-x-2017-03-31=\language5
+\l@afrikaans=\language6
+\l@ancientgreek=\language7
+\l@ibycus=\language8
+\l@arabic=\language9
+\l@armenian=\language10
+\l@basque=\language11
+\l@belarusian=\language12
+\l@bulgarian=\language13
+\l@catalan=\language14
+\l@pinyin=\language15
+\l@churchslavonic=\language16
+\l@coptic=\language17
+\l@croatian=\language18
+\l@czech=\language19
+\l@danish=\language20
+\l@dutch=\language21
+\l@ukenglish=\language22
+\l@usenglishmax=\language23
+\l@esperanto=\language24
+\l@estonian=\language25
+\l@ethiopic=\language26
+\l@farsi=\language27
+\l@finnish=\language28
+\l@french=\language29
+\l@friulan=\language30
+\l@galician=\language31
+\l@georgian=\language32
+\l@german=\language33
+\l@ngerman=\language34
+\l@swissgerman=\language35
+\l@monogreek=\language36
+\l@greek=\language37
+\l@hungarian=\language38
+\l@icelandic=\language39
+\l@assamese=\language40
+\l@bengali=\language41
+\l@gujarati=\language42
+\l@hindi=\language43
+\l@kannada=\language44
+\l@malayalam=\language45
+\l@marathi=\language46
+\l@oriya=\language47
+\l@panjabi=\language48
+\l@tamil=\language49
+\l@telugu=\language50
+\l@indonesian=\language51
+\l@interlingua=\language52
+\l@irish=\language53
+\l@italian=\language54
+\l@kurmanji=\language55
+\l@latin=\language56
+\l@classiclatin=\language57
+\l@liturgicallatin=\language58
+\l@latvian=\language59
+\l@lithuanian=\language60
+\l@mongolian=\language61
+\l@mongolianlmc=\language62
+\l@bokmal=\language63
+\l@nynorsk=\language64
+\l@occitan=\language65
+\l@piedmontese=\language66
+\l@polish=\language67
+\l@portuguese=\language68
+\l@romanian=\language69
+\l@romansh=\language70
+\l@russian=\language71
+\l@sanskrit=\language72
+\l@serbian=\language73
+\l@serbianc=\language74
+\l@slovak=\language75
+\l@slovenian=\language76
+\l@spanish=\language77
+\l@swedish=\language78
+\l@thai=\language79
+\l@turkish=\language80
+\l@turkmen=\language81
+\l@ukrainian=\language82
+\l@uppersorbian=\language83
+\l@welsh=\language84
 )
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty
-"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/luababel.def))
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks14
+\uc@combtoksb=\toks15
+\uc@temptokena=\toks16
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen104
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks24
 )
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty
-"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics
-.cfg"
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: luatex.def on input line 99.
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.d
-ef"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
-)
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2017/01/12 v0.01h Graphics/Color for luaTeX
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cf
-g"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-) ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cf
-g"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def
-"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/a4wide\a4wide.sty"
-Package: a4wide 1994/08/30
- ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ntgclass\a4.sty"
-Package: a4 2004/04/15 v1.2g A4 based page layout
-))
-(main.aux)
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.
-mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
-\scratchdimen=\dimen105
-\scratchbox=\box27
-\nofMPsegments=\count89
-\nofMParguments=\count90
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count91
-\MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks16
-)
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf
--base.sty"
-Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
-
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.
-sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mathtools/empheq.sty
+Package: empheq 2014/07/16 v2.14 Emphasizing equations
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen115
+\calc@Bdimen=\dimen116
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count104
+\calc@Cskip=\skip48
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count105
+\l_MT_multwidth_dim=\dimen117
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen118
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen119
+\l_MT_above_intertext_sep=\dimen120
+\l_MT_below_intertext_sep=\dimen121
+\l_MT_above_shortintertext_sep=\dimen122
+\l_MT_below_shortintertext_sep=\dimen123
+)
+\l_EQ_equationtype_int=\count106
+\l_EQ_alignmentmode_int=\count107
+\l_EQ_totalwidth_dim=\dimen124
+\l_EQ_displaywidth_dim=\dimen125
+\l_EQ_temp_linewidth_dim=\dimen126
+\EmphEqdelimitershortfall=\dimen127
+\EmphEqdelimiterfactor=\count108
+\g_EQ_toptag_height_dim=\dimen128
+\g_EQ_bottomtag_depth_dim=\dimen129
+\g_EQ_toprow_height_dim=\dimen130
+\g_EQ_bottomrow_depth_dim=\dimen131
+\g_EQ_widesttag_dim=\dimen132
+\EQ_mathdisplay_box=\box28
+\EQ_tag_box=\box29
+\g_EQ_temprow_int=\count109
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 147.
+)
+(./main.aux)
+\openout1 = main.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen133
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen134
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefineke
-ys.sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.st
-y"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.st
-y"
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.
-sty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.s
-ty"
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)))))
-("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds
-.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+))))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks27
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-42.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 460.
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
+\Hy@linkcounter=\count116
+(load luc: /Users/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic/fo
+nts/otl/lmroman12-regular.luc)(load luc: /Users/stephan/Library/texlive/2017/tex
+mf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc) [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+](load luc: /Users/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic/f
+onts/otl/lmroman17-regular.luc)
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-Underfull \hbox (badness 10000) in paragraph at lines 13--24
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
- []
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)(load luc: /Users/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic/f
+onts/otl/lmroman10-bold.luc)
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--24
-
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--39
-
- []
+LaTeX Warning: Citation `Morton11' on page 2 undefined on input line 45.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--39
-
- []
-
-[1
-
-{C:/Users/V2/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
-
- []
+LaTeX Warning: Citation `Schoelkopf1998' on page 2 undefined on input line 51.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
-
- []
+LaTeX Warning: Citation `Volk2019' on page 2 undefined on input line 51.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
+LaTeX Warning: Citation `Connors2020' on page 2 undefined on input line 51.
 
- []
+[2
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--55
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 57--70
-
- []
-
-[3]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
-1.
- ("C:\Users\V2\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+]
 Package epstopdf Info: Source file: <Illustrations/Overview/overview.eps>
-(epstopdf)                    date: 2020-02-13 13:30:10
+(epstopdf)                    date: 2020-02-13 05:30:10
 (epstopdf)                    size: 20380550 bytes
-(epstopdf)             Output file: <Illustrations/Overview/overview-eps-conver
-ted-to.pdf>
-(epstopdf)                    date: 2020-02-13 13:58:13
+(epstopdf)             Output file: <Illustrations/Overview/overview-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2020-02-13 05:58:13
 (epstopdf)                    size: 1295700 bytes
-(epstopdf)             Command: <epstopdf --outfile=Illustrations/Overview/over
+(epstopdf)             Command: <repstopdf --outfile=Illustrations/Overview/over
 view-eps-converted-to.pdf Illustrations/Overview/overview.eps>
-(epstopdf)             \includegraphics on input line 81.
+(epstopdf)             \includegraphics on input line 74.
 Package epstopdf Info: Output file is already uptodate.
 
+warning  (file Illustrations/Overview/overview-eps-converted-to.pdf) (pdf inclus
+ion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
 
-pdfTeX warning: pdflatex (file ./Illustrations/Overview/overview-eps-converted-
-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
-wed
-<Illustrations/Overview/overview-eps-converted-to.pdf, id=18, 2236.355pt x 1606
+<Illustrations/Overview/overview-eps-converted-to.pdf, id=17, 2236.355pt x 1606
 .0pt>
-File: Illustrations/Overview/overview-eps-converted-to.pdf Graphic file (type p
-df)
-<use Illustrations/Overview/overview-eps-converted-to.pdf>
-Package pdftex.def Info: Illustrations/Overview/overview-eps-converted-to.pdf  
-used on input line 81.
-(pdftex.def)             Requested size: 424.58624pt x 304.89812pt.
-<Illustrations/Theory_figure/theory_delft_v3.pdf, id=19, 913.56812pt x 394.9746
+File: Illustrations/Overview/overview-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Illustrations/Overview/overview-eps-converted-to.pdf>
+Package luatex.def Info: Illustrations/Overview/overview-eps-converted-to.pdf us
+ed on input line 74.
+(luatex.def)             Requested size: 229.5pt x 164.79985pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+warning  (file Illustrations/HarvardFigure2_v5.pdf) (pdf inclusion): PDF inclusi
+on: found PDF version '1.7', but at most version '1.5' allowed
+<Illustrations/HarvardFigure2_v5.pdf, id=18, 963.6pt x 542.025pt>
+File: Illustrations/HarvardFigure2_v5.pdf Graphic file (type pdf)
+
+<use Illustrations/HarvardFigure2_v5.pdf>
+Package luatex.def Info: Illustrations/HarvardFigure2_v5.pdf used on input line 
+105.
+(luatex.def)             Requested size: 469.0pt x 263.8081pt.
+ [3] [4]
+<Illustrations/Theory_figure/theory_delft_v3.pdf, id=28, 913.56812pt x 394.9746
 1pt>
 File: Illustrations/Theory_figure/theory_delft_v3.pdf Graphic file (type pdf)
-<use Illustrations/Theory_figure/theory_delft_v3.pdf>
-Package pdftex.def Info: Illustrations/Theory_figure/theory_delft_v3.pdf  used 
-on input line 88.
-(pdftex.def)             Requested size: 424.58624pt x 183.56487pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 92.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 92.
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--124
+ <use Illustrations/Theory_figure/theory_delft_v3.pdf>
+Package luatex.def Info: Illustrations/Theory_figure/theory_delft_v3.pdf used on
+ input line 142.
+(luatex.def)             Requested size: 229.5pt x 99.21953pt.
+(load luc: /Users/stephan/Library/texlive/2017/texmf-var/luatex-cache/generic/fo
+nts/otl/lmroman7-regular.luc)(load luc: /Users/stephan/Library/texlive/2017/texm
+f-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc)(load luc: /Users/step
+han/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regul
+ar.luc)
+Underfull \hbox (badness 10000) in paragraph at lines 150--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--124
-
+Underfull \hbox (badness 1014) in paragraph at lines 150--157
+\TU/lmr/m/n/10 To es-ti-mate what in-duc-tance is needed to gen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--124
-
+Underfull \hbox (badness 1565) in paragraph at lines 169--169
+[]\TU/lmr/bx/n/12 Ohmic Style RF Re-flec-tom-e-try
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--124
+warning  (file Illustrations/HarvardFigure3_v5.pdf) (pdf inclusion): PDF inclusi
+on: found PDF version '1.7', but at most version '1.5' allowed
+<Illustrations/HarvardFigure3_v5.pdf, id=29, 578.16pt x 542.025pt>
+File: Illustrations/HarvardFigure3_v5.pdf Graphic file (type pdf)
 
- []
+<use Illustrations/HarvardFigure3_v5.pdf>
+Package luatex.def Info: Illustrations/HarvardFigure3_v5.pdf used on input line 
+175.
+(luatex.def)             Requested size: 229.5pt x 215.15202pt.
 
-[4] [5 <./Illustrations/Overview/overview-eps-converted-to.pdf>] [6 <./Illustra
-tions/Theory_figure/theory_delft_v3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+ [5]
+[6]
 
+LaTeX Warning: Citation `Connors2020' on page 7 undefined on input line 196.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--134
-
- []
-
-[7]
-Package epstopdf Info: Source file: <Illustrations/Performance_figure/performan
-ce.eps>
-(epstopdf)                    date: 2020-02-13 14:20:18
+Package epstopdf Info: Source file: <Illustrations/Performance_figure/performanc
+e.eps>
+(epstopdf)                    date: 2020-02-13 06:20:18
 (epstopdf)                    size: 2885938 bytes
-(epstopdf)             Output file: <Illustrations/Performance_figure/performan
-ce-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-02-13 14:21:39
+(epstopdf)             Output file: <Illustrations/Performance_figure/performanc
+e-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-13 06:21:39
 (epstopdf)                    size: 264597 bytes
-(epstopdf)             Command: <epstopdf --outfile=Illustrations/Performance_f
-igure/performance-eps-converted-to.pdf Illustrations/Performance_figure/perform
-ance.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             Command: <repstopdf --outfile=Illustrations/Performance_f
+igure/performance-eps-converted-to.pdf Illustrations/Performance_figure/performa
+nce.eps>
+(epstopdf)             \includegraphics on input line 205.
 Package epstopdf Info: Output file is already uptodate.
 
+warning  (file Illustrations/Performance_figure/performance-eps-converted-to.pdf
+) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '
+1.5' allowed
 
-pdfTeX warning: pdflatex (file ./Illustrations/Performance_figure/performance-e
-ps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
-on <1.5> allowed
-<Illustrations/Performance_figure/performance-eps-converted-to.pdf, id=337, 851
-.18pt x 644.4075pt>
-File: Illustrations/Performance_figure/performance-eps-converted-to.pdf Graphic
- file (type pdf)
+<Illustrations/Performance_figure/performance-eps-converted-to.pdf, id=43, 851.
+18pt x 644.4075pt>
+File: Illustrations/Performance_figure/performance-eps-converted-to.pdf Graphic 
+file (type pdf)
+
 <use Illustrations/Performance_figure/performance-eps-converted-to.pdf>
-Package pdftex.def Info: Illustrations/Performance_figure/performance-eps-conve
-rted-to.pdf  used on input line 137.
-(pdftex.def)             Requested size: 424.58624pt x 321.44583pt.
-[8] [9 <./Illustrations/Performance_figure/performance-eps-converted-to.pdf>]
-(main.aux) ) 
-Here is how much of TeX's memory you used:
- 2136 strings out of 492484
- 31851 string characters out of 3122960
- 116858 words of memory out of 3000000
- 6458 multiletter control sequences out of 15000+200000
- 6981 words of font info for 25 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 55i,8n,37p,1721b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/V2/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/V2/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/V2/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/
-V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r6.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/V2/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (9 pages, 3017652 bytes).
-PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+Package luatex.def Info: Illustrations/Performance_figure/performance-eps-conver
+ted-to.pdf used on input line 205.
+(luatex.def)             Requested size: 229.5pt x 173.74652pt.
+
+Underfull \hbox (badness 1509) in paragraph at lines 215--220
+\TU/lmr/m/n/10 shown for sev-eral re-sis-tances (be-low and above
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 215--220
+\TU/lmr/m/n/10 In panel (b) of fig-ure 5[] we char-ac-ter-ized the
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 215--220
+\TU/lmr/m/n/10 point is $\OT1/cmr/m/n/10 275\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 
+$\TU/lmr/m/n/10 , we spec-u-late that it would be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 215--220
+[]\TU/lmr/m/n/10 standardlize: Fig-ure 5[] (c-d)?[] []Panel (c) and
+ []
+
+(./main.bbl) [7] [8
+
+<./Illustrations/Overview/overview-eps-converted-to.pdf>]
+[9<./Illustrations/HarvardFigure2_v5.pdf>] [10<./Illustrations/Theory_figure/the
+ory_delft_v3.pdf><./Illustrations/HarvardFigure3_v5.pdf>] [11
+
+<./Illustrations/Performance_figure/performance-eps-converted-to.pdf>] (./main.
+aux)
+
+LaTeX Warning: There were undefined references.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 4371 strings out of 494481
+ 100000,154059 words of node,token memory allocated
+ 474 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 4 glue, 1 kern, 8 attribute, 52 glue_spec, 8 attrib
+ute_list, 2 write nodes
+   avail lists: 2:462,3:123,4:67,5:515,6:9253,7:2940,8:31,9:331,10:18,11:725
+ 8191 multiletter control sequences out of 65536+600000
+ 60 fonts using 4141759 bytes
+ 38i,8n,24p,1616b,248s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.ot
+f></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.
+otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman7-regula
+r.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman10-bol
+d.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman12-reg
+ular.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman17-
+regular.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman
+10-regular.otf></usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmro
+man12-bold.otf></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (11 pages, 3246890 bytes).
+
+PDF statistics: 535 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
