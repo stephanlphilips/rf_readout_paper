@@ -1,0 +1,4692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1461.4066"
+   height="1110.3163"
+   viewBox="0 0 1461.4066 1110.3162"
+   sodipodi:docname="perfomance_fig.svg"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   inkscape:export-filename="C:\Users\steph\Google Drive\PhD_active\5_dot_sample\Papers\rf_readout_paper\Illustrations\Performance_figure\perfomance_fig.png"
+   inkscape:export-xdpi="300.02261"
+   inkscape:export-ydpi="300.02261">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9726"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#1074b0;stroke-width:1pt;stroke-opacity:1;fill:#1074b0;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <circle
+       r="1"
+       cy="0"
+       cx="0"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt5-13" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt6-69"
+       xlink:href="#gpPt5-13"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <circle
+       stroke="currentColor"
+       stroke-width="0.5"
+       r="0.5"
+       id="gpDot" />
+    <path
+       d="M-1,0 h2 M0,-1 v2"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt0" />
+    <path
+       d="M-1,-1 L1,1 M1,-1 L-1,1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt1" />
+    <path
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt2" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt3" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       fill="currentColor"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt4" />
+    <circle
+       r="1"
+       cy="0"
+       cx="0"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt6"
+       xlink:href="#gpPt5" />
+    <path
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt7" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt8"
+       xlink:href="#gpPt7" />
+    <use
+       transform="rotate(180)"
+       stroke="currentColor"
+       id="gpPt9"
+       xlink:href="#gpPt7" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt10"
+       xlink:href="#gpPt9" />
+    <use
+       transform="rotate(45)"
+       stroke="currentColor"
+       id="gpPt11"
+       xlink:href="#gpPt3" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt12"
+       xlink:href="#gpPt11" />
+    <path
+       d="M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt13" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt14"
+       xlink:href="#gpPt13" />
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="textbox">
+      <feFlood
+         id="feFlood7448"
+         result="bgnd"
+         flood-opacity="1"
+         flood-color="white" />
+      <feComposite
+         id="feComposite7450"
+         operator="atop"
+         in2="bgnd"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="greybox">
+      <feFlood
+         id="feFlood7453"
+         result="grey"
+         flood-opacity="1"
+         flood-color="lightgrey" />
+      <feComposite
+         id="feComposite7455"
+         operator="atop"
+         in2="grey"
+         in="SourceGraphic" />
+    </filter>
+    <circle
+       stroke="currentColor"
+       stroke-width="0.5"
+       r="0.5"
+       id="gpDot-8" />
+    <path
+       d="M-1,0 h2 M0,-1 v2"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt0-8" />
+    <path
+       d="M-1,-1 L1,1 M1,-1 L-1,1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt1-3" />
+    <path
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt2-4" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt3-9" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       fill="currentColor"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt4-9" />
+    <circle
+       r="1"
+       cy="0"
+       cx="0"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt5-7" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt6-7"
+       xlink:href="#gpPt5-7" />
+    <path
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt7-5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt8-9"
+       xlink:href="#gpPt7-5" />
+    <use
+       transform="rotate(180)"
+       stroke="currentColor"
+       id="gpPt9-7"
+       xlink:href="#gpPt7-5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt10-5"
+       xlink:href="#gpPt9-7" />
+    <use
+       transform="rotate(45)"
+       stroke="currentColor"
+       id="gpPt11-8"
+       xlink:href="#gpPt3-9" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt12-7"
+       xlink:href="#gpPt11-8" />
+    <path
+       d="M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt13-0" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt14-7"
+       xlink:href="#gpPt13-0" />
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="textbox-1">
+      <feFlood
+         id="feFlood7936"
+         result="bgnd"
+         flood-opacity="1"
+         flood-color="white" />
+      <feComposite
+         id="feComposite7938"
+         operator="atop"
+         in2="bgnd"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="greybox-0">
+      <feFlood
+         id="feFlood7941"
+         result="grey"
+         flood-opacity="1"
+         flood-color="lightgrey" />
+      <feComposite
+         id="feComposite7943"
+         operator="atop"
+         in2="grey"
+         in="SourceGraphic" />
+    </filter>
+    <circle
+       stroke="currentColor"
+       stroke-width="0.5"
+       r="0.5"
+       id="gpDot-9" />
+    <path
+       d="M-1,0 h2 M0,-1 v2"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt0-6" />
+    <path
+       d="M-1,-1 L1,1 M1,-1 L-1,1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt1-2" />
+    <path
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt2-1" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt3-5" />
+    <rect
+       height="2"
+       width="2"
+       y="-1"
+       x="-1"
+       fill="currentColor"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt4-1" />
+    <circle
+       r="1"
+       cy="0"
+       cx="0"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt5-1" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt6-0"
+       xlink:href="#gpPt5-1" />
+    <path
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt7-4" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt8-2"
+       xlink:href="#gpPt7-4" />
+    <use
+       transform="rotate(180)"
+       stroke="currentColor"
+       id="gpPt9-8"
+       xlink:href="#gpPt7-4" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt10-3"
+       xlink:href="#gpPt9-8" />
+    <use
+       transform="rotate(45)"
+       stroke="currentColor"
+       id="gpPt11-9"
+       xlink:href="#gpPt3-5" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt12-6"
+       xlink:href="#gpPt11-9" />
+    <path
+       d="M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z"
+       stroke="currentColor"
+       stroke-width="0.133"
+       id="gpPt13-1" />
+    <use
+       stroke="none"
+       fill="currentColor"
+       id="gpPt14-2"
+       xlink:href="#gpPt13-1" />
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="textbox-8">
+      <feFlood
+         id="feFlood8424"
+         result="bgnd"
+         flood-opacity="1"
+         flood-color="white" />
+      <feComposite
+         id="feComposite8426"
+         operator="atop"
+         in2="bgnd"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       width="1"
+       height="1"
+       y="0"
+       x="0"
+       filterUnits="objectBoundingBox"
+       id="greybox-9">
+      <feFlood
+         id="feFlood8429"
+         result="grey"
+         flood-opacity="1"
+         flood-color="lightgrey" />
+      <feComposite
+         id="feComposite8431"
+         operator="atop"
+         in2="grey"
+         in="SourceGraphic" />
+    </filter>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#169d74;fill-opacity:1;fill-rule:evenodd;stroke:#169d74;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9726-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="4044"
+     inkscape:window-height="1916"
+     id="namedview12"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.28"
+     inkscape:cx="299.37367"
+     inkscape:cy="456.10168"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18"
+     transform="translate(34.586172,24.088777)">
+    <g
+       id="gnuplot_canvas"
+       transform="matrix(0.875,0,0,0.875,726.03913,541.34142)">
+      <rect
+         id="rect3111"
+         fill="none"
+         height="600"
+         width="800"
+         y="0"
+         x="0" />
+      <defs
+         id="defs3139" />
+      <g
+         id="g3141"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="#000000"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g3151"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3143"
+           d="m 121,472.4 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3149"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,478.9)">
+          <text
+             id="text3147"><tspan
+               id="tspan3145"
+               font-family="Verdana">0.6</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3161"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3153"
+           d="m 121,409.2 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3159"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,415.7)">
+          <text
+             id="text3157"><tspan
+               id="tspan3155"
+               font-family="Verdana">0.8</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3171"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3163"
+           d="m 121,346 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3169"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,352.5)">
+          <text
+             id="text3167"><tspan
+               id="tspan3165"
+               font-family="Verdana">1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3181"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3173"
+           d="m 121,282.8 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3179"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,289.3)">
+          <text
+             id="text3177"><tspan
+               id="tspan3175"
+               font-family="Verdana">1.2</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3191"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3183"
+           d="m 121,219.7 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3189"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,226.2)">
+          <text
+             id="text3187"><tspan
+               id="tspan3185"
+               font-family="Verdana">1.4</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3201"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3193"
+           d="m 121,156.5 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3199"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,163)">
+          <text
+             id="text3197"><tspan
+               id="tspan3195"
+               font-family="Verdana">1.6</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3211"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3203"
+           d="m 121,93.3 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3209"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,99.8)">
+          <text
+             id="text3207"><tspan
+               id="tspan3205"
+               font-family="Verdana">1.8</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3221"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3213"
+           d="m 121,30.1 h 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3219"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,36.6)">
+          <text
+             id="text3217"><tspan
+               id="tspan3215"
+               font-family="Verdana">2</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3231"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3223"
+           d="m 121,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3229"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(121,540.5)">
+          <text
+             id="text3227"><tspan
+               id="tspan3225"
+               font-family="Verdana">-10</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3241"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3233"
+           d="m 190.7,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3239"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(190.7,540.5)">
+          <text
+             id="text3237"><tspan
+               id="tspan3235"
+               font-family="Verdana">-8</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3251"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3243"
+           d="m 260.4,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3249"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(260.4,540.5)">
+          <text
+             id="text3247"><tspan
+               id="tspan3245"
+               font-family="Verdana">-6</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3261"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3253"
+           d="m 330.2,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3259"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(330.2,540.5)">
+          <text
+             id="text3257"><tspan
+               id="tspan3255"
+               font-family="Verdana">-4</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3271"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3263"
+           d="m 399.9,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3269"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(399.9,540.5)">
+          <text
+             id="text3267"><tspan
+               id="tspan3265"
+               font-family="Verdana">-2</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3281"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3273"
+           d="m 469.6,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3279"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(469.6,540.5)">
+          <text
+             id="text3277"><tspan
+               id="tspan3275"
+               font-family="Verdana">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3291"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3283"
+           d="m 539.3,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3289"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(539.3,540.5)">
+          <text
+             id="text3287"><tspan
+               id="tspan3285"
+               font-family="Verdana">2</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3301"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3293"
+           d="m 609,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3299"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(609,540.5)">
+          <text
+             id="text3297"><tspan
+               id="tspan3295"
+               font-family="Verdana">4</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3311"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3303"
+           d="m 643.9,504 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3309"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,510.5)">
+          <text
+             id="text3307"><tspan
+               id="tspan3305"
+               font-family="Verdana">120</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3321"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3313"
+           d="m 643.9,425 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3319"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,431.5)">
+          <text
+             id="text3317"><tspan
+               id="tspan3315"
+               font-family="Verdana">140</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3331"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3323"
+           d="m 643.9,346 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3329"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,352.5)">
+          <text
+             id="text3327"><tspan
+               id="tspan3325"
+               font-family="Verdana">160</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3341"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3333"
+           d="m 643.9,267 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3339"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,273.5)">
+          <text
+             id="text3337"><tspan
+               id="tspan3335"
+               font-family="Verdana">180</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3351"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3343"
+           d="m 643.9,188.1 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3349"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,194.6)">
+          <text
+             id="text3347"><tspan
+               id="tspan3345"
+               font-family="Verdana">200</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3361"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3353"
+           d="m 643.9,109.1 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3359"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,115.6)">
+          <text
+             id="text3357"><tspan
+               id="tspan3355"
+               font-family="Verdana">220</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3371"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3363"
+           d="m 643.9,30.1 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3369"
+           text-anchor="start"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(657.9,36.6)">
+          <text
+             id="text3367"><tspan
+               id="tspan3365"
+               font-family="Verdana">240</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3373"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g3377"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3375"
+           d="M 121,30.1 V 504 H 643.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3385"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g3383"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="rotate(-90,149.55,117.55)">
+          <text
+             id="text3381"><tspan
+               id="tspan3379"
+               font-family="Verdana">Measurement time for 99% fidelity (us)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3393"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g3391"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="rotate(-90,508.25,-241.15)">
+          <text
+             id="text3389"><tspan
+               id="tspan3387"
+               font-family="Verdana">Electron temperature (mK)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3401"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g3399"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(382.4,585.5)">
+          <text
+             id="text3397"><tspan
+               id="tspan3395"
+               font-family="Verdana">RF readout power (dBm)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3403"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="gnuplot_plot_1">
+        <title
+           id="title3405">gnuplot_plot_1</title>
+        <g
+           id="g3407"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#ffffff"
+           fill="none" />
+        <g
+           id="g3411"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path3409"
+             d="m 138.4,464.2 34.9,10.1 34.9,-15.2 34.8,4.6 34.9,3.3 34.8,-6.3 34.9,-14.7 34.9,-10.5 34.8,-33.7 34.9,-25.3 34.8,-1.2 34.9,-68 34.9,-101.7 34.8,-46.6 34.9,-79.9 17.4,-4.4"
+             stroke="#1074b0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_2">
+        <title
+           id="title3414">gnuplot_plot_2</title>
+        <g
+           id="g3418"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path3416"
+             d="m 197.7,61.7 33.5,126.4 73.2,78.9 36.9,79 36.6,31.6 73.2,63.2 110.2,31.6 h 73.5 9.1"
+             stroke="#169d74"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g3421"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="#169d74"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g3423"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g3425"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="#000000"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g3429"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path3427"
+           d="M 121,30.1 V 504 H 643.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3431"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+    </g>
+    <g
+       id="gnuplot_canvas-7"
+       transform="matrix(0.875,0,0,0.875,21.382883,541.34142)">
+      <rect
+         id="rect4010"
+         fill="none"
+         height="600"
+         width="800"
+         y="0"
+         x="0" />
+      <defs
+         id="defs4038" />
+      <g
+         id="g4040"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g4050"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4042"
+           d="m 163,504 h 15 m 579.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4048"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(149,510.5)">
+          <text
+             id="text4046"><tspan
+               id="tspan4044"
+               font-family="Verdana">99.99</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4060"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4052"
+           d="m 163,468.3 h 7.5 m 587.4,0 h -7.5 M 163,447.5 h 7.5 m 587.4,0 h -7.5 M 163,432.7 h 7.5 m 587.4,0 h -7.5 M 163,421.2 h 7.5 m 587.4,0 h -7.5 M 163,411.8 h 7.5 m 587.4,0 h -7.5 M 163,403.9 h 7.5 m 587.4,0 h -7.5 M 163,397 h 7.5 m 587.4,0 h -7.5 M 163,390.9 h 7.5 m 587.4,0 h -7.5 M 163,385.5 h 15 m 579.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4058"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(149,392)">
+          <text
+             id="text4056"><tspan
+               id="tspan4054"
+               font-family="Verdana">99.9</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4070"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4062"
+           d="m 163,349.9 h 7.5 m 587.4,0 h -7.5 M 163,329 h 7.5 m 587.4,0 h -7.5 M 163,314.2 h 7.5 m 587.4,0 h -7.5 M 163,302.7 h 7.5 m 587.4,0 h -7.5 M 163,293.3 h 7.5 m 587.4,0 h -7.5 M 163,285.4 h 7.5 m 587.4,0 h -7.5 M 163,278.5 h 7.5 m 587.4,0 h -7.5 m -587.4,-6 h 7.5 m 587.4,0 h -7.5 M 163,267 h 15 m 579.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4068"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(149,273.5)">
+          <text
+             id="text4066"><tspan
+               id="tspan4064"
+               font-family="Verdana">99</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4080"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4072"
+           d="m 163,231.4 h 7.5 m 587.4,0 h -7.5 M 163,210.5 h 7.5 m 587.4,0 h -7.5 M 163,195.7 h 7.5 m 587.4,0 h -7.5 M 163,184.2 h 7.5 m 587.4,0 h -7.5 M 163,174.9 h 7.5 m 587.4,0 h -7.5 m -587.4,-8 h 7.5 m 587.4,0 h -7.5 M 163,160.1 h 7.5 m 587.4,0 h -7.5 M 163,154 h 7.5 m 587.4,0 h -7.5 M 163,148.6 h 15 m 579.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4078"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(149,155.1)">
+          <text
+             id="text4076"><tspan
+               id="tspan4074"
+               font-family="Verdana">90</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4090"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4082"
+           d="m 163,112.9 h 7.5 m 587.4,0 h -7.5 M 163,92 h 7.5 m 587.4,0 h -7.5 M 163,77.2 h 7.5 m 587.4,0 h -7.5 M 163,65.8 h 7.5 m 587.4,0 h -7.5 M 163,56.4 h 7.5 m 587.4,0 h -7.5 M 163,48.5 h 7.5 m 587.4,0 h -7.5 M 163,41.6 h 7.5 m 587.4,0 h -7.5 M 163,35.5 h 7.5 m 587.4,0 h -7.5 M 163,30.1 h 15 m 579.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4088"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(149,36.6)">
+          <text
+             id="text4086"><tspan
+               id="tspan4084"
+               font-family="Verdana" /></text>
+        </g>
+      </g>
+      <g
+         id="g4100"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4092"
+           d="m 163,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4098"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(163,540.5)">
+          <text
+             id="text4096"><tspan
+               id="tspan4094"
+               font-family="Verdana">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4110"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4102"
+           d="m 282,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4108"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(282,540.5)">
+          <text
+             id="text4106"><tspan
+               id="tspan4104"
+               font-family="Verdana">200</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4120"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4112"
+           d="m 401,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4118"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(401,540.5)">
+          <text
+             id="text4116"><tspan
+               id="tspan4114"
+               font-family="Verdana">400</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4130"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4122"
+           d="m 519.9,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4128"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(519.9,540.5)">
+          <text
+             id="text4126"><tspan
+               id="tspan4124"
+               font-family="Verdana">600</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4140"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4132"
+           d="m 638.9,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4138"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(638.9,540.5)">
+          <text
+             id="text4136"><tspan
+               id="tspan4134"
+               font-family="Verdana">800</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4150"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4142"
+           d="m 757.9,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4148"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(757.9,540.5)">
+          <text
+             id="text4146"><tspan
+               id="tspan4144"
+               font-family="Verdana">1000</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4152"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g4156"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4154"
+           d="M 163,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4164"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g4162"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="rotate(-90,149.55,117.55)">
+          <text
+             id="text4160"><tspan
+               id="tspan4158"
+               font-family="Verdana">Readout fidelity (%)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4172"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g4170"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(460.4,585.5)">
+          <text
+             id="text4168"><tspan
+               id="tspan4166"
+               font-family="Verdana">Measurement time (ns)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4174"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="gnuplot_plot_1-8">
+        <title
+           id="title4176">gnuplot_plot_1</title>
+        <g
+           id="g4178"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#ffffff"
+           fill="none" />
+        <g
+           id="g4182"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path4180"
+             d="m 222.5,37.9 59.5,2 59.5,30.6 59.5,44.9 59.5,59.6 59.4,62.4 59.5,66.4 59.5,93.2 59.5,71.3"
+             stroke="#1074b0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g4185"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="#1074b0"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g4187"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g4189"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="#000000"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g4193"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path4191"
+           d="M 163,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4195"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+    </g>
+    <g
+       id="gnuplot_canvas-1"
+       transform="matrix(0.875,0,0,0.875,726.03913,20.75878)">
+      <rect
+         id="rect6050"
+         fill="none"
+         height="600"
+         width="800"
+         y="0"
+         x="0" />
+      <defs
+         id="defs6078" />
+      <g
+         id="g6080"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g6090"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6082"
+           d="m 107,504 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6088"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,510.5)">
+          <text
+             id="text6086"><tspan
+               id="tspan6084"
+               font-family="Verdana">-40</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6100"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6092"
+           d="m 107,451.3 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6098"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,457.8)">
+          <text
+             id="text6096"><tspan
+               id="tspan6094"
+               font-family="Verdana">-35</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6110"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6102"
+           d="m 107,398.7 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6108"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,405.2)">
+          <text
+             id="text6106"><tspan
+               id="tspan6104"
+               font-family="Verdana">-30</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6120"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6112"
+           d="m 107,346 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6118"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,352.5)">
+          <text
+             id="text6116"><tspan
+               id="tspan6114"
+               font-family="Verdana">-25</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6130"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6122"
+           d="m 107,293.4 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6128"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,299.9)">
+          <text
+             id="text6126"><tspan
+               id="tspan6124"
+               font-family="Verdana">-20</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6140"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6132"
+           d="m 107,240.7 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6138"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,247.2)">
+          <text
+             id="text6136"><tspan
+               id="tspan6134"
+               font-family="Verdana">-15</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6150"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6142"
+           d="m 107,188.1 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6148"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,194.6)">
+          <text
+             id="text6146"><tspan
+               id="tspan6144"
+               font-family="Verdana">-10</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6160"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6152"
+           d="m 107,135.4 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6158"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,141.9)">
+          <text
+             id="text6156"><tspan
+               id="tspan6154"
+               font-family="Verdana">-5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6170"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6162"
+           d="m 107,82.8 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6168"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,89.3)">
+          <text
+             id="text6166"><tspan
+               id="tspan6164"
+               font-family="Verdana">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6180"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6172"
+           d="m 107,30.1 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6178"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,36.6)">
+          <text
+             id="text6176"><tspan
+               id="tspan6174"
+               font-family="Verdana">5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6190"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6182"
+           d="m 107,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6188"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,540.5)">
+          <text
+             id="text6186"><tspan
+               id="tspan6184"
+               font-family="Verdana">100</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6200"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6192"
+           d="m 222.3,504 v -7.5 m 0,-466.4 v 7.5 M 289.8,504 v -7.5 m 0,-466.4 v 7.5 M 337.7,504 v -7.5 m 0,-466.4 v 7.5 M 374.8,504 v -7.5 m 0,-466.4 v 7.5 M 405.1,504 v -7.5 m 0,-466.4 v 7.5 M 430.8,504 v -7.5 m 0,-466.4 v 7.5 M 453,504 v -7.5 m 0,-466.4 v 7.5 M 472.6,504 v -7.5 m 0,-466.4 v 7.5 M 490.1,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g6198"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(490.1,540.5)">
+          <text
+             id="text6196"><tspan
+               id="tspan6194"
+               font-family="Verdana">1000</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6204"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6202"
+           d="m 605.4,504 v -7.5 m 0,-466.4 v 7.5 M 672.9,504 v -7.5 m 0,-466.4 v 7.5 M 720.8,504 v -7.5 m 0,-466.4 v 7.5 M 757.9,504 v -7.5 m 0,-466.4 v 7.5"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g6208"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6206"
+           d="M 107,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g6216"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g6214"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="rotate(-90,149.55,117.55)">
+          <text
+             id="text6212"><tspan
+               id="tspan6210"
+               font-family="Verdana">S11 (dB)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6224"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g6222"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(432.4,585.5)">
+          <text
+             id="text6220"><tspan
+               id="tspan6218"
+               font-family="Verdana">Resistance (kOhm)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6226"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="gnuplot_plot_1-00">
+        <title
+           id="title6228">gnuplot_plot_1</title>
+        <g
+           id="g6230"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#ffffff"
+           fill="none" />
+        <g
+           id="g6554"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.3"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <use
+             id="use6232"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,346,220.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6234"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,346.6,219)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6236"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,346.5,217.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6238"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,345.6,214.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6240"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,344.5,214.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6242"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,344,213.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6244"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,341.3,216.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6246"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,340.2,215)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6248"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,336.2,217.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6250"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,334.8,220.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6252"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,331.3,226.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6254"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,326.1,225.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6256"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,324.1,235.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6258"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,317.7,242.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6260"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,313,251.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6262"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,306.1,261.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6264"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,303.7,271.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6266"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,298.7,291.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6268"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,293.5,308.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6270"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,285.4,334)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6272"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,279.8,379.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6274"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,273.7,470.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6276"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,266.2,409.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6278"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,261.5,361.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6280"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,259.1,304.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6282"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,254.2,278.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6284"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,247.3,260.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6286"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,242.3,241.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6288"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,240,219.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6290"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,234.7,207)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6292"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,228,196.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6294"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,223.9,188.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6296"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,221,184.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6298"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,219.1,182.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6300"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,218.7,182.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6302"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,219.9,187.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6304"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,222.8,195.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6306"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,230,207.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6308"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,235.8,215.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6310"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,239.1,235)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6312"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,246.4,257.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6314"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,254.5,283.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6316"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,265.8,309)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6318"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,269.2,356.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6320"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,276.9,394)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6322"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,292.8,320.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6324"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,295.8,290.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6326"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,298.3,267.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6328"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,308.1,245.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6330"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,314.1,227.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6332"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,321,215.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6334"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,324.1,205)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6336"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,334.9,196.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6338"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,345.5,186.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6340"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,349.1,180.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6342"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,360.2,175.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6344"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,367,169.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6346"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,374,166.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6348"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,381,163.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6350"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,388,160.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6352"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,396.6,160)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6354"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,402.2,158)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6356"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,404.5,155.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6358"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,410.7,155.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6360"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,413.8,155.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6362"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,415.5,156.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6364"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,416.2,156.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6366"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,415.5,160.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6368"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,413.5,160.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6370"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,410.7,165.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6372"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,406.6,168.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6374"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,400.6,168.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6376"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,393.1,174.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6378"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,384.7,183.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6380"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,373.9,189.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6382"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,361.4,202.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6384"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,342.6,214.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6386"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,336.1,225.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6388"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,322.7,245.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6390"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,309.5,265.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6392"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,292.3,308.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6394"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,287.2,365.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6396"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,277.8,481.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6398"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,266.7,385.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6400"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,263.6,327.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6402"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,258.5,305.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6404"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,254.4,276.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6406"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,252.2,274.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6408"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,252.4,271.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6410"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,253.3,280.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6412"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,256.7,301.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6414"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,264,325.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6416"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,269.7,350.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6418"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,275.4,412.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6420"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,733.9,75.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6422"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,732.1,76)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6424"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,726.3,76.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6426"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,719.8,77.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6428"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,711.9,77.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6430"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,709.2,78.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6432"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,702.3,79.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6434"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,693.6,80.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6436"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,686.2,80.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6438"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,682.8,82)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6440"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,669.4,82.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6442"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,659.5,85)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6444"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,647.2,86.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6446"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,635.2,89.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6448"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,620.6,91.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6450"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,605.9,94)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6452"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,590.2,96.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6454"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,573.7,98)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6456"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,555.3,101)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6458"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,537.5,103)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6460"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,520.1,104.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6462"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,493.1,106.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6464"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,477.9,108)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6466"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,463,110.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6468"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,450.2,113.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6470"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,443.3,117.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6472"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,445,118.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6474"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,455,118.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6476"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,463.4,115)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6478"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,501.6,111.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6480"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,534.6,105)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6482"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,568.5,98.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6484"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,603.8,94.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6486"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,642.1,89.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6488"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,660.5,85.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6490"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,675.2,82)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6492"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,692.8,80)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6494"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,701.6,78.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6496"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,708.2,77.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6498"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,713.8,76.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6500"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,751.2,70.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6502"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,743.8,71.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6504"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,716,72.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6506"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,693.6,73.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6508"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,668.9,74.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6510"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,654.4,76.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6512"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,597.5,79.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6514"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,554.8,83.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6516"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,512.1,90.9)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6518"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,464.6,101.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6520"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,418.4,119.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6522"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,379.1,140.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6524"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,350.4,163.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6526"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,331.5,184.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6528"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,336.6,186.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6530"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,355.2,171.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6532"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,369.7,149.4)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6534"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,429.9,131.3)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6536"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,475.1,115.5)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6538"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,547.8,107.7)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6540"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,571.4,101.1)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6542"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,616.6,96.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6544"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,652.8,92.6)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6546"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,683.5,89.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6548"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,710.6,84.8)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6550"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,740.3,81.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             id="use6552"
+             color="#1074b0"
+             transform="matrix(3,0,0,3,746.6,79.2)"
+             xlink:href="#gpPt6-69"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g6557"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="#1074b0"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g6559"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g6561"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="#000000"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g6565"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path6563"
+           d="M 107,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g6567"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-9.5549202"
+       y="0.22372258"
+       id="text7382"><tspan
+         sodipodi:role="line"
+         id="tspan7380"
+         x="-9.5549202"
+         y="0.22372258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">(a)</tspan></text>
+    <text
+       id="text7382-0"
+       y="1.2549729"
+       x="717.87476"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="1.2549729"
+         x="717.87476"
+         id="tspan7380-1"
+         sodipodi:role="line">(b)</tspan></text>
+    <text
+       id="text7382-6"
+       y="540.83313"
+       x="-9.5549202"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana"
+         y="540.83313"
+         x="-9.5549202"
+         id="tspan7380-6"
+         sodipodi:role="line">(c)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="717.87476"
+       y="540.83313"
+       id="text7382-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan7380-1-1"
+         x="717.87476"
+         y="540.83313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana">(d)</tspan></text>
+    <g
+       id="gnuplot_canvas-10"
+       transform="matrix(0.875,0,0,0.875,21.382883,20.75878)">
+      <rect
+         id="rect8406"
+         fill="none"
+         height="600"
+         width="800"
+         y="0"
+         x="0" />
+      <defs
+         id="defs8434">
+        <circle
+           stroke="currentColor"
+           stroke-width="0.5"
+           r="0.5"
+           id="circle8717"
+           cx="0"
+           cy="0" />
+        <path
+           d="M -1,0 H 1 M 0,-1 v 2"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="path8719"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M -1,-1 1,1 M 1,-1 -1,1"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="path8721"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M -1,0 H 1 M 0,-1 v 2 m -1,-2 2,2 m -2,0 2,-2"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="path8723"
+           inkscape:connector-curvature="0" />
+        <rect
+           height="2"
+           width="2"
+           y="-1"
+           x="-1"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="rect8725" />
+        <rect
+           height="2"
+           width="2"
+           y="-1"
+           x="-1"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="rect8727" />
+        <circle
+           r="1"
+           cy="0"
+           cx="0"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="circle8729" />
+        <use
+           stroke="none"
+           fill="currentColor"
+           id="use8731"
+           xlink:href="#gpPt5-1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <path
+           d="m 0,-1.33 -1.33,2 h 2.66 z"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="path8733"
+           inkscape:connector-curvature="0" />
+        <use
+           stroke="none"
+           fill="currentColor"
+           id="use8735"
+           xlink:href="#gpPt7-4"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           transform="scale(-1)"
+           stroke="currentColor"
+           id="use8737"
+           xlink:href="#gpPt7-4"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           stroke="none"
+           fill="currentColor"
+           id="use8739"
+           xlink:href="#gpPt9-8"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           transform="rotate(45)"
+           stroke="currentColor"
+           id="use8741"
+           xlink:href="#gpPt3-5"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           stroke="none"
+           fill="currentColor"
+           id="use8743"
+           xlink:href="#gpPt11-9"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <path
+           d="M 0,1.33 1.265,0.411 0.782,-1.067 -0.782,-1.076 -1.265,0.411 Z"
+           stroke="currentColor"
+           stroke-width="0.133"
+           id="path8745"
+           inkscape:connector-curvature="0" />
+        <use
+           stroke="none"
+           fill="currentColor"
+           id="use8747"
+           xlink:href="#gpPt13-1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <filter
+           width="1"
+           height="1"
+           y="0"
+           x="0"
+           filterUnits="objectBoundingBox"
+           id="filter8753">
+          <feFlood
+             id="feFlood8749"
+             result="bgnd"
+             flood-opacity="1"
+             flood-color="white" />
+          <feComposite
+             id="feComposite8751"
+             operator="atop"
+             in2="bgnd"
+             in="SourceGraphic" />
+        </filter>
+        <filter
+           width="1"
+           height="1"
+           y="0"
+           x="0"
+           filterUnits="objectBoundingBox"
+           id="filter8759">
+          <feFlood
+             id="feFlood8755"
+             result="grey"
+             flood-opacity="1"
+             flood-color="lightgrey" />
+          <feComposite
+             id="feComposite8757"
+             operator="atop"
+             in2="grey"
+             in="SourceGraphic" />
+        </filter>
+      </defs>
+      <g
+         id="g8436"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g8446"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8438"
+           d="m 107,504 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8444"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,510.5)">
+          <text
+             id="text8442"><tspan
+               id="tspan8440"
+               font-family="Verdana">-50</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8456"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8448"
+           d="m 107,425 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8454"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,431.5)">
+          <text
+             id="text8452"><tspan
+               id="tspan8450"
+               font-family="Verdana">-40</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8466"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8458"
+           d="m 107,346 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8464"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,352.5)">
+          <text
+             id="text8462"><tspan
+               id="tspan8460"
+               font-family="Verdana">-30</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8476"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8468"
+           d="m 107,267 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8474"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,273.5)">
+          <text
+             id="text8472"><tspan
+               id="tspan8470"
+               font-family="Verdana">-20</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8486"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8478"
+           d="m 107,188.1 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8484"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,194.6)">
+          <text
+             id="text8482"><tspan
+               id="tspan8480"
+               font-family="Verdana">-10</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8496"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8488"
+           d="m 107,109.1 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8494"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,115.6)">
+          <text
+             id="text8492"><tspan
+               id="tspan8490"
+               font-family="Verdana">0</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8506"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8498"
+           d="m 107,30.1 h 15 m 635.9,0 h -15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8504"
+           text-anchor="end"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(93,36.6)">
+          <text
+             id="text8502"><tspan
+               id="tspan8500"
+               font-family="Verdana">10</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8516"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8508"
+           d="m 107,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8514"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(107,540.5)">
+          <text
+             id="text8512"><tspan
+               id="tspan8510"
+               font-family="Verdana">150</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8526"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8518"
+           d="m 237.2,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8524"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(237.2,540.5)">
+          <text
+             id="text8522"><tspan
+               id="tspan8520"
+               font-family="Verdana">160</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8536"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8528"
+           d="m 367.4,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8534"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(367.4,540.5)">
+          <text
+             id="text8532"><tspan
+               id="tspan8530"
+               font-family="Verdana">170</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8546"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8538"
+           d="m 497.5,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8544"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(497.5,540.5)">
+          <text
+             id="text8542"><tspan
+               id="tspan8540"
+               font-family="Verdana">180</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8556"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8548"
+           d="m 627.7,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8554"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(627.7,540.5)">
+          <text
+             id="text8552"><tspan
+               id="tspan8550"
+               font-family="Verdana">190</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8566"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8558"
+           d="m 757.9,504 v -15 m 0,-458.9 v 15"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g8564"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(757.9,540.5)">
+          <text
+             id="text8562"><tspan
+               id="tspan8560"
+               font-family="Verdana">200</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8568"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g8572"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8570"
+           d="M 107,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8580"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g8578"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="rotate(-90,149.55,117.55)">
+          <text
+             id="text8576"><tspan
+               id="tspan8574"
+               font-family="Verdana">S11 (dB)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8588"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <g
+           id="g8586"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Verdana"
+           fill="#000000"
+           stroke="none"
+           transform="translate(432.4,585.5)">
+          <text
+             id="text8584"><tspan
+               id="tspan8582"
+               font-family="Verdana">frequency (MHz)</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g8590"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g8594"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8592"
+           d="M 560.9,489 V 339 h 183 v 150 z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="gnuplot_plot_1-7">
+        <title
+           id="title8596">R=10k</title>
+        <g
+           id="g8598"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="#000000"
+           color="#ffffff"
+           fill="none" />
+        <g
+           id="g8606"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <g
+             id="g8604"
+             text-anchor="end"
+             font-size="20px"
+             font-family="Verdana"
+             fill="#000000"
+             stroke="none"
+             transform="translate(644.9,360.5)">
+            <text
+               id="text8602"><tspan
+                 id="tspan8600"
+                 font-family="Verdana">R=10k</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8610"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path8608"
+             d="m 658.9,354 h 71 M 107,109.1 l 0.7,0.6 0.6,-0.4 0.7,-0.3 0.6,0.7 0.7,-0.3 0.6,0.1 0.7,-0.1 0.6,-0.5 0.7,0.7 0.6,-0.2 0.7,-0.6 0.6,-0.1 0.7,-0.7 0.6,1.2 0.7,0.1 0.6,-0.9 0.7,0.6 0.6,-1.3 0.7,0.4 0.6,-0.3 0.7,0.5 h 0.6 l 0.7,0.1 0.6,0.5 0.7,-0.7 0.6,-0.5 0.7,-0.1 0.6,-0.3 0.7,0.1 0.6,-0.1 0.7,-0.2 0.6,0.2 0.7,-0.2 0.7,-0.1 0.6,-0.1 0.7,0.2 0.6,-0.4 0.7,-0.2 0.6,-0.4 0.7,0.8 0.6,-0.8 0.7,0.4 0.6,-0.7 0.7,0.7 0.6,-0.6 0.7,0.1 0.6,0.4 0.7,-0.3 0.6,-0.9 0.7,-0.1 0.6,0.6 0.7,-0.2 0.6,0.7 0.7,-0.6 0.6,0.1 0.7,-0.6 0.6,0.5 0.7,0.1 0.6,-1.3 0.7,0.2 0.6,0.6 0.7,-0.2 0.6,-0.5 0.7,0.1 h 0.7 l 0.6,-0.4 0.7,0.6 0.6,-0.5 0.7,-0.8 0.6,0.6 0.7,-0.5 0.6,-0.5 0.7,1.1 0.6,-1 0.7,0.3 0.6,-0.5 0.7,-0.1 0.6,-0.3 0.7,0.9 0.6,-0.6 0.7,-0.1 0.6,-0.4 0.7,0.1 0.6,-0.1 0.7,0.7 0.6,-0.8 0.7,-0.6 0.6,-0.4 0.7,-0.2 0.6,-0.5 0.7,0.5 0.6,-0.4 0.7,-0.4 0.6,-0.2 0.7,0.8 0.6,-1.2 0.7,0.8 0.7,-0.9 0.6,0.1 0.7,-0.8 0.6,-0.4 0.7,-0.2 0.6,0.4 0.7,-0.9 0.6,0.3 0.7,-0.3 0.6,-0.1 0.7,-1 0.6,0.2 0.7,-0.1 0.6,-0.7 0.7,-0.1 0.6,0.2 0.7,-0.6 0.6,0.3 0.7,-0.7 0.6,-0.6 0.7,-0.1 0.6,-0.6 0.7,-0.6 h 0.6 l 0.7,-0.6 0.6,-0.8 0.7,0.4 0.6,-0.5 0.7,-0.6 0.6,-0.5 0.7,-1.1 0.7,-0.1 0.6,0.5 0.7,-1.1 0.6,-0.6 0.7,-0.6 0.6,-0.6 0.7,-0.3 0.6,-0.7 0.7,0.1 0.6,-1.6 0.7,-0.1 0.6,-0.2 0.7,-1.2 0.6,-0.4 0.7,-0.6 0.6,-0.5 0.7,-0.8 0.6,-1.1 0.7,-0.2 0.6,-0.4 0.7,-0.7 0.6,-0.9 0.7,-0.6 0.6,-0.1 0.7,-1.2 0.6,-0.3 0.7,-0.8 h 0.6 l 0.7,-0.3 0.6,-0.2 0.7,-0.3 h 0.6 l 0.7,-0.3 0.7,0.5 0.6,0.4 0.7,0.4 0.6,0.5 0.7,0.8 0.6,0.6 0.7,1.1 0.6,1.3 0.7,1 0.6,1.6 0.7,1.7 0.6,1.3 0.7,1.5 0.6,1.9 0.7,1.8 0.6,1.6 0.7,1.7 0.6,1.5 0.7,1.9 0.6,1.5 0.7,1.8 0.6,1.5 0.7,1.5 0.6,1.8 0.7,1.8 0.6,0.6 0.7,1.4 0.6,0.6 0.7,1.4 0.6,2.1 0.7,-0.1 0.6,0.7 0.7,0.6 0.7,0.2 0.6,1.1 0.7,0.4 0.6,0.5 0.7,1.1 0.6,0.4 0.7,-0.4 0.6,1 0.7,-0.6 0.6,1.1 0.7,-0.2 0.6,-0.1 0.7,0.5 0.6,-0.9 0.7,0.9 0.6,0.2 0.7,-0.4 0.6,0.5 0.7,0.4 0.6,-0.2 0.7,-0.9 0.6,0.1 0.7,0.2 0.6,-1 0.7,0.9 0.6,-0.9 0.7,0.4 0.6,-0.9 0.7,0.4 0.6,0.4 0.7,-0.8 0.7,-0.9 0.6,1.2 0.7,-0.6 0.6,-0.8 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,-0.1 0.7,-1 0.6,0.1 0.7,0.6 0.6,-0.8 0.7,-0.4 0.6,0.3 0.7,-0.2 0.6,-0.3 0.7,-0.5 0.6,-0.7 0.7,0.5 0.6,-1 h 0.7 l 0.6,-0.5 h 0.7 0.6 l 0.7,-0.7 0.6,-0.1 0.7,0.1 0.6,-1.4 0.7,0.6 h 0.6 l 0.7,-1 0.6,-0.4 h 0.7 l 0.7,0.3 0.6,-0.6 0.7,-1 0.6,0.2 0.7,-0.9 0.6,0.2 0.7,0.2 0.6,-1.3 0.7,0.2 0.6,-0.2 0.7,-0.5 h 0.6 l 0.7,-0.6 0.6,0.1 0.7,-0.2 0.6,-0.5 h 0.7 l 0.6,-0.7 0.7,0.2 0.6,-0.4 0.7,-1.1 0.6,-0.3 0.7,0.1 0.6,0.1 0.7,-1 h 0.6 0.7 l 0.6,-0.6 0.7,-0.4 0.6,-0.1 0.7,-0.7 0.6,0.1 0.7,-0.3 0.7,-0.5 0.6,-0.4 h 0.7 l 0.6,-0.5 0.7,-0.3 0.6,-0.6 0.7,-0.9 0.6,0.8 0.7,-0.7 0.6,-0.8 0.7,-0.2 0.6,0.3 0.7,-1.1 h 0.6 l 0.7,-0.7 0.6,-0.3 0.7,-0.5 0.6,-0.2 0.7,-0.9 h 0.6 l 0.7,-0.5 0.6,0.1 0.7,-0.5 0.6,-0.3 0.7,-0.6 h 0.6 l 0.7,-0.6 h 0.6 l 0.7,-0.5 0.6,-0.4 0.7,-0.2 0.7,-0.3 0.6,-0.8 0.7,-0.2 0.6,-0.4 0.7,-0.3 0.6,-0.7 0.7,-0.2 0.6,-0.3 0.7,-0.4 0.6,0.3 0.7,-0.8 0.6,-0.2 0.7,-0.1 0.6,-0.2 0.7,-0.6 0.6,-0.1 0.7,-0.1 0.6,-0.4 0.7,0.1 0.6,-0.6 0.7,0.1 0.6,-0.2 0.7,0.4 0.6,-0.2 0.7,-0.3 0.6,0.8 0.7,-0.3 0.6,0.2 0.7,0.2 0.6,0.4 0.7,-0.3 0.6,0.8 0.7,0.5 0.7,0.1 0.6,1.6 0.7,-0.2 0.6,-0.1 0.7,1.1 0.6,0.6 0.7,0.3 0.6,1.1 0.7,1.1 0.6,-0.1 0.7,0.4 0.6,0.9 0.7,0.7 0.6,0.8 0.7,0.2 0.6,0.7 0.7,0.7 0.6,0.6 0.7,1.7 0.6,-0.4 0.7,1.1 0.6,0.9 0.7,0.3 h 0.6 l 0.7,1 0.6,1.4 0.7,0.3 0.6,0.2 0.7,1.2 0.6,0.6 0.7,0.2 0.7,1 0.6,0.2 0.7,1.4 0.6,-0.1 0.7,1 0.6,0.9 0.7,-0.2 0.6,0.7 0.7,1 0.6,0.1 0.7,1.2 0.6,-0.7 0.7,0.3 0.6,0.8 0.7,0.3 0.6,-0.2 0.7,0.7 0.6,-0.4 0.7,0.5 0.6,1.2 0.7,-0.2 h 0.6 l 0.7,0.9 0.6,-0.7 0.7,0.2 0.6,-0.1 0.7,1.3 0.6,-0.6 0.7,0.7 0.6,-1.2 0.7,0.5 0.6,0.1 0.7,0.5 0.7,0.2 0.6,-0.3 0.7,-0.1 0.6,-0.4 0.7,0.3 0.6,-0.6 0.7,0.6 0.6,0.1 0.7,-0.5 0.6,-0.4 0.7,0.2 0.6,0.1 0.7,-0.4 0.6,0.5 0.7,-0.4 0.6,-0.6 0.7,0.3 0.6,-0.3 0.7,0.1 0.6,0.6 0.7,0.2 0.6,-1 0.7,-0.3 0.6,0.1 0.7,0.1 0.6,-0.8 0.7,-0.4 0.6,0.9 0.7,-0.5 0.6,-0.1 0.7,-0.1 0.6,0.5 h 0.7 l 0.7,-1.3 0.6,1 0.7,-0.6 h 0.6 l 0.7,-0.9 0.6,1 0.7,-0.4 h 0.6 l 0.7,-0.4 0.6,-0.3 0.7,-0.1 0.6,-0.1 0.7,-0.2 0.6,-0.4 0.7,0.7 0.6,-0.4 0.7,-0.3 0.6,-0.3 0.7,0.9 0.6,-1.4 0.7,0.4 0.6,-1 0.7,1.1 0.6,-0.6 0.7,-0.2 0.6,0.4 0.7,-0.5 0.6,-0.2 0.7,-0.4 0.6,0.1 0.7,0.3 0.7,-0.4 h 0.6 l 0.7,0.6 0.6,-1 h 0.7 l 0.6,-0.6 0.7,0.5 0.6,-0.3 0.7,-0.1 0.6,-1.1 0.7,1.3 0.6,-0.2 h 0.7 l 0.6,-0.5 0.7,-0.6 0.6,0.1 0.7,0.3 0.6,-0.3 0.7,-0.7 0.6,0.1 0.7,-0.1 0.6,-0.2 0.7,0.9 0.6,-1 0.7,0.3 0.6,-0.2 0.7,-0.3 h 0.6 l 0.7,0.5 0.6,-0.7 0.7,-0.5 0.6,0.1 0.7,-0.3 0.7,0.5 0.6,0.3 0.7,-0.9 0.6,0.1 0.7,-0.2 0.6,0.1 0.7,-0.3 0.6,0.1 0.7,-0.2 h 0.6 l 0.7,-0.6 0.6,-0.3 0.7,0.9 0.6,-0.6 0.7,0.2 0.6,-0.1 h 0.7 l 0.6,-0.7 0.7,0.5 0.6,-0.5 0.7,-0.3 0.6,0.1 0.7,0.3 0.6,-0.2 0.7,-0.5 0.6,-0.2 0.7,0.5 0.6,-0.1 0.7,-0.4 h 0.6 l 0.7,-0.4 0.7,-0.2 0.6,0.1 0.7,-0.3 0.6,0.5 0.7,-0.1 0.6,-0.2 0.7,-0.5 0.6,0.3 0.7,-0.5 h 0.6 0.7 l 0.6,0.5 0.7,-0.9 0.6,-0.5 0.7,0.8 0.6,-0.5 0.7,-0.2 0.6,-0.1 0.7,0.4 0.6,-0.4 0.7,0.2 0.6,-0.3 0.7,0.5 0.6,-0.7 0.7,-0.1 0.6,0.4 0.7,-0.5 h 0.6 l 0.7,0.1 0.6,-0.7 0.7,-0.2 0.6,0.4 0.7,-0.2 0.7,-0.5 h 0.6 l 0.7,0.1 0.6,0.1 0.7,-0.3 0.6,0.2 0.7,-0.5 0.6,0.5 0.7,-0.2 0.6,-0.8 h 0.7 l 0.6,0.5 0.7,-0.4 0.6,-0.2 0.7,-0.6 0.6,0.5 0.7,0.2 h 0.6 l 0.7,-0.1 0.6,-0.2 0.7,-0.5 h 0.6 l 0.7,0.4 0.6,-0.5 0.7,0.5 0.6,-0.7 0.7,-0.2 0.6,0.1 0.7,0.3 0.6,-0.2 0.7,-0.4 0.6,0.2 0.7,-0.1 h 0.7 l 0.6,-0.5 0.7,0.3 0.6,-0.4 0.7,0.4 0.6,-0.3 0.7,-0.3 0.6,0.7 0.7,-1 0.6,0.1 0.7,0.2 0.6,-0.5 0.7,0.2 0.6,-0.2 h 0.7 0.6 l 0.7,-0.3 0.6,0.5 0.7,-0.1 0.6,0.1 0.7,-0.4 0.6,-0.1 0.7,-0.3 0.6,0.2 0.7,0.2 0.6,-0.5 0.7,0.2 0.6,-0.2 h 0.7 0.6 l 0.7,-0.1 0.7,-0.2 h 0.6 0.7 l 0.6,0.1 0.7,-0.4 0.6,0.2 0.7,-0.2 0.6,-0.1 0.7,-0.2 0.6,0.1 0.7,-0.2 0.6,-0.1 0.7,0.1 h 0.6 0.7 l 0.6,-0.3 0.7,0.4 0.6,-0.5 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,-0.1 0.7,0.3 0.6,-0.1 0.7,-0.1 0.6,-0.1 0.7,-0.1 0.6,-0.2 0.7,0.1 0.6,-0.1 h 0.7 0.6 l 0.7,-0.1 0.7,0.2 0.6,-0.1 0.7,0.1 0.6,-0.2 h 0.7 l 0.6,0.3 0.7,-0.3 0.6,-0.1 h 0.7 0.6 l 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,0.1 0.7,-0.1 0.6,-0.3 0.7,0.3 0.6,0.2 0.7,-0.2 0.6,-0.2 0.7,-0.1 0.6,0.1 0.7,0.2 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,-0.2 0.6,0.1 0.7,0.2 0.6,-0.2 0.7,0.1 0.7,-0.1 0.6,0.1 h 0.7 l 0.6,-0.3 0.7,0.4 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.3 0.7,-0.3 0.6,0.3 0.7,-0.1 h 0.6 l 0.7,-0.3 0.6,0.2 0.7,0.2 0.6,-0.1 0.7,0.2 0.6,-0.2 0.7,-0.1 0.6,-0.2 0.7,0.4 0.6,-0.1 0.7,0.2 0.6,-0.3 0.7,0.2 0.6,0.1 h 0.7 l 0.6,-0.2 0.7,0.3 0.7,-0.3 0.6,-0.2 0.7,0.3 0.6,0.3 0.7,-0.3 0.6,0.4 0.7,-0.1 0.6,0.1 0.7,-0.2 0.6,-0.1 0.7,0.5 0.6,-0.3 0.7,0.3 h 0.6 l 0.7,-0.2 0.6,0.2 h 0.7 0.6 l 0.7,0.1 h 0.6 l 0.7,0.1 0.6,-0.2 0.7,0.2 0.6,-0.1 0.7,0.2 h 0.6 l 0.7,-0.1 0.6,0.1 0.7,0.1 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,-0.1 0.7,-0.1 0.6,0.1 0.7,0.2 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,-0.1 0.6,-0.1 0.7,0.3 0.6,-0.1 0.7,0.3 0.6,-0.1 0.7,0.2 0.6,-0.1 0.7,0.3 h 0.6 l 0.7,-0.2 h 0.6 l 0.7,0.3 0.6,-0.4 0.7,0.4 0.6,-0.4 0.7,0.3 h 0.6 l 0.7,0.2 0.6,-0.2 0.7,0.2 h 0.6 l 0.7,-0.2 0.6,0.3 h 0.7 l 0.7,0.1 h 0.6 l 0.7,-0.1 0.6,0.2 0.7,-0.1 0.6,0.3 0.7,-0.1 h 0.6 l 0.7,0.5 0.6,-0.4 0.7,0.5 0.6,-0.2 h 0.7 l 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,-0.2 h 0.6 l 0.7,-0.2 0.6,0.5 h 0.7 0.6 l 0.7,0.2 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,0.4 0.6,-0.1 0.7,-0.1 0.6,0.2 0.7,-0.1 0.6,0.1 0.7,0.1 0.7,-0.1 0.6,0.2 0.7,0.2 0.6,-0.2 0.7,0.1 0.6,-0.1 0.7,0.2 0.6,0.1 0.7,-0.2 0.6,0.2 h 0.7 l 0.6,0.2 0.7,0.2 0.6,-0.5 0.7,0.4 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,0.3 h 0.6 l 0.7,-0.2 0.6,0.1 h 0.7 0.6 l 0.7,0.3 h 0.6 l 0.7,0.1 0.6,-0.3 0.7,-0.1 0.6,0.2 0.7,0.2 0.6,-0.1 0.7,-0.2 0.7,0.3 0.6,0.1 0.7,-0.1 0.6,0.1 0.7,-0.1 0.6,0.3 0.7,-0.2 h 0.6 0.7 l 0.6,0.2 0.7,-0.1 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,-0.1 h 0.6 0.7 l 0.6,0.1 0.7,0.1 0.6,-0.1 0.7,0.1 0.6,-0.1 0.7,0.2 0.6,-0.2 0.7,-0.1 0.6,0.2 0.7,0.1 0.6,-0.3 0.7,0.3 0.6,0.2 0.7,-0.1 0.7,-0.4 0.6,0.3 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,0.1 0.7,-0.3 0.6,0.4 h 0.7 0.6 l 0.7,-0.2 0.6,-0.2 0.7,-0.2 0.6,0.3 0.7,0.4 0.6,-0.4 0.7,0.1 h 0.6 l 0.7,0.2 0.6,0.1 0.7,-0.4 0.6,0.3 0.7,0.1 0.6,0.1 0.7,-0.6 0.6,0.4 0.7,0.4 0.6,-0.5 0.7,-0.3 0.6,0.6 0.7,-0.1 0.6,-0.2 0.7,0.3 h 0.7 0.6 l 0.7,-0.4 h 0.6 l 0.7,0.1 0.6,-0.2 0.7,0.3 0.6,0.1 0.7,0.1 0.6,-0.5 h 0.7 l 0.6,0.1 h 0.7 0.6 l 0.7,-0.2 0.6,0.5 0.7,-0.2 0.6,-0.3 0.7,0.3 h 0.6 l 0.7,-0.3 0.6,0.4 0.7,-0.1 0.6,-0.1 0.7,0.2 0.6,0.2 0.7,-0.7 0.6,0.1 0.7,-0.1 0.6,0.6 0.7,-0.1 0.7,-0.3 h 0.6 l 0.7,-0.2 0.6,-0.1 0.7,0.3 h 0.6 l 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.1 0.7,-0.2 0.6,0.2 h 0.7 0.6 l 0.7,-0.1 0.6,-0.1 0.7,0.4 0.6,-0.4 0.7,0.1 0.6,-0.2 0.7,0.1 0.6,0.3 0.7,-0.1 0.6,-0.2 0.7,0.2 0.6,-0.2 0.7,0.3 0.6,-0.1 0.7,-0.2 0.6,-0.1 0.7,-0.4 0.6,0.2 0.7,0.3"
+             stroke="#fee0d2"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_2-5">
+        <title
+           id="title8613">R=150k</title>
+        <g
+           id="g8621"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <g
+             id="g8619"
+             text-anchor="end"
+             font-size="20px"
+             font-family="Verdana"
+             fill="#000000"
+             stroke="none"
+             transform="translate(644.9,390.5)">
+            <text
+               id="text8617"><tspan
+                 id="tspan8615"
+                 font-family="Verdana">R=150k</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8625"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path8623"
+             d="m 658.9,384 h 71 M 107,110.2 l 0.7,-0.1 0.6,0.3 0.7,-0.5 0.6,-0.4 0.7,-0.1 0.6,0.7 0.7,-0.3 0.6,0.3 0.7,0.1 0.6,-0.7 0.7,-0.5 0.6,-0.1 0.7,0.1 0.6,0.2 0.7,0.4 0.6,-1.3 0.7,0.5 0.6,0.6 0.7,-1.3 0.6,0.1 0.7,0.2 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,0.1 0.6,-1.1 0.7,1.3 0.6,-0.5 0.7,0.2 0.6,-1.2 0.7,1.2 0.6,-1 0.7,-0.7 0.7,0.3 0.6,0.4 0.7,-0.4 0.6,1 0.7,-0.4 0.6,-0.4 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,-0.7 0.7,1.2 0.6,-0.7 0.7,0.2 0.6,-0.2 0.7,-0.4 h 0.6 l 0.7,0.6 0.6,-0.4 0.7,-0.1 0.6,-0.9 0.7,0.1 0.6,0.6 0.7,-0.4 0.6,-0.1 0.7,0.3 0.6,-1.2 0.7,0.3 0.6,0.6 0.7,-0.7 0.6,-0.4 0.7,0.4 0.7,0.3 0.6,-0.4 0.7,-0.6 0.6,-0.3 0.7,0.5 0.6,-0.1 0.7,-0.4 0.6,0.1 0.7,-0.3 0.6,0.4 h 0.7 l 0.6,-0.7 0.7,-0.1 h 0.6 l 0.7,-0.3 0.6,-0.4 0.7,0.6 0.6,0.2 0.7,-0.8 0.6,-0.6 0.7,0.6 0.6,-0.3 0.7,-0.2 0.6,-0.1 0.7,-0.1 0.6,-0.1 0.7,-0.7 0.6,0.1 0.7,0.3 0.6,-0.7 0.7,0.5 0.6,-0.5 0.7,-0.6 h 0.7 l 0.6,-0.3 0.7,0.8 0.6,-1.6 0.7,0.4 0.6,-0.6 0.7,-0.2 0.6,-0.8 0.7,0.5 0.6,-0.2 0.7,-0.7 0.6,-0.6 0.7,-0.1 0.6,0.4 0.7,-0.4 0.6,-0.3 0.7,-0.6 0.6,-0.1 0.7,-0.3 0.6,-0.1 0.7,-0.8 0.6,-0.4 0.7,-0.2 0.6,-0.5 0.7,-0.2 0.6,-0.7 h 0.7 l 0.6,-0.4 0.7,-0.3 0.6,-0.5 0.7,-0.8 0.7,0.2 0.6,-0.6 0.7,-0.1 0.6,-1 0.7,-0.8 0.6,0.1 0.7,-1.1 0.6,-0.9 0.7,-0.3 0.6,-0.6 0.7,-0.7 0.6,-0.7 0.7,-0.7 0.6,-0.6 0.7,-0.5 0.6,-0.4 0.7,-1 0.6,-0.2 0.7,-1 0.6,-0.7 0.7,-0.4 0.6,-0.6 0.7,-0.9 0.6,-0.8 0.7,-0.4 0.6,-0.7 0.7,-0.7 0.6,-0.1 0.7,-0.7 0.6,0.2 0.7,-0.6 0.6,0.4 0.7,-0.3 0.7,0.1 0.6,0.3 0.7,0.3 0.6,0.6 0.7,1.1 0.6,0.7 0.7,1 0.6,1 0.7,1.3 0.6,1.4 0.7,1.2 0.6,2 0.7,1.5 0.6,1.7 0.7,2 0.6,1.5 0.7,1.9 0.6,1.4 0.7,1.6 0.6,2.6 0.7,1.5 0.6,1.5 0.7,1.3 0.6,1.7 0.7,2.2 0.6,0.6 0.7,1.6 0.6,1 0.7,1.1 0.6,1.1 0.7,0.6 0.6,1.5 0.7,0.9 0.7,0.7 0.6,0.5 0.7,0.2 0.6,0.7 0.7,1.4 0.6,0.8 0.7,0.4 0.6,-0.3 0.7,0.1 0.6,1.2 0.7,-0.3 0.6,-0.2 0.7,0.5 0.6,1 0.7,-0.4 0.6,0.6 0.7,-0.9 0.6,0.8 0.7,0.4 0.6,-1.4 0.7,0.1 0.6,0.4 h 0.7 l 0.6,0.1 0.7,0.3 0.6,-0.7 0.7,0.8 0.6,-0.8 0.7,-0.5 0.6,-0.1 0.7,-0.3 0.7,0.5 0.6,0.8 0.7,-1 0.6,0.6 0.7,-0.4 0.6,-0.2 0.7,-0.6 0.6,0.3 0.7,-0.5 h 0.6 l 0.7,-0.5 0.6,0.7 0.7,-0.8 0.6,0.4 0.7,-0.8 0.6,-0.1 0.7,0.4 h 0.6 l 0.7,-0.7 0.6,0.2 h 0.7 0.6 l 0.7,-0.3 0.6,-0.3 h 0.7 l 0.6,-0.9 0.7,0.7 0.6,-1.2 0.7,0.3 0.6,0.6 0.7,-0.7 0.6,1 0.7,-1.5 0.7,-0.3 0.6,-0.3 0.7,1.2 0.6,-1 0.7,0.2 0.6,0.3 0.7,-0.6 h 0.6 l 0.7,0.3 0.6,0.1 h 0.7 l 0.6,-0.9 0.7,-0.2 0.6,0.6 0.7,-0.4 0.6,-0.5 0.7,0.5 0.6,-0.4 0.7,-0.4 0.6,1.3 0.7,-0.9 0.6,0.2 0.7,-0.4 0.6,-0.1 0.7,0.4 0.6,-0.7 0.7,1.1 h 0.6 l 0.7,-0.5 0.6,0.3 0.7,-0.4 0.6,1 0.7,-0.6 0.7,-0.2 0.6,-0.2 0.7,0.6 0.6,0.8 0.7,0.6 0.6,-0.4 0.7,0.8 0.6,-1.6 0.7,1.7 h 0.6 l 0.7,-0.7 0.6,0.3 0.7,0.1 0.6,1 0.7,-0.1 0.6,0.1 0.7,0.4 0.6,0.8 0.7,0.1 0.6,-0.2 0.7,1.3 0.6,-1.2 0.7,1.7 0.6,0.4 0.7,-0.4 0.6,1.7 0.7,-0.1 0.6,1.3 0.7,0.2 0.6,-0.1 0.7,0.7 0.7,0.6 0.6,1.4 0.7,-0.4 0.6,1.1 0.7,1 0.6,0.7 0.7,1.6 0.6,0.4 0.7,0.3 0.6,0.5 0.7,0.3 0.6,1.8 0.7,1 0.6,2.7 0.7,-0.8 0.6,1.2 0.7,1.5 0.6,1.3 0.7,1.9 0.6,1.6 0.7,1.4 0.6,0.7 0.7,2.5 0.6,-0.4 0.7,1.9 0.6,1.5 0.7,2.6 0.6,2.1 0.7,2.3 0.6,1.4 0.7,1 0.6,1.2 0.7,4.4 0.7,-0.3 0.6,4.2 0.7,2.6 0.6,1.2 0.7,2.7 0.6,2.1 0.7,3.5 0.6,5.3 0.7,2.5 0.6,0.5 0.7,2.8 0.6,3.8 0.7,6.8 0.6,2.6 0.7,4 0.6,-0.7 0.7,8.3 0.6,3.2 0.7,5.3 0.6,6.5 0.7,1.6 0.6,2.1 0.7,0.7 0.6,5.8 0.7,2 0.6,4.2 0.7,-1.5 0.6,-2.4 0.7,2.9 0.6,-4.8 0.7,-2.2 0.7,-3.9 0.6,-3.5 0.7,-2.5 0.6,-5.5 0.7,-2.3 0.6,-4.7 0.7,-4.7 0.6,-1 0.7,-3.9 0.6,-2.2 0.7,-5.8 0.6,-1.8 0.7,-3.5 0.6,-4.6 0.7,-1.4 0.6,-1.5 0.7,-4.7 0.6,1.3 0.7,-4.8 0.6,-2.9 0.7,-0.9 0.6,-2.6 0.7,-2.9 0.6,-0.8 0.7,-2.5 0.6,-0.8 0.7,-4.4 0.6,0.4 0.7,-2.4 0.6,-1.8 0.7,-0.4 0.6,-2.6 0.7,0.1 0.7,-2.5 0.6,-1.7 0.7,0.1 0.6,-1 0.7,-1.7 0.6,-1.5 0.7,-1 0.6,-2.3 0.7,-0.6 0.6,0.1 0.7,-1.8 0.6,-0.1 0.7,-0.9 0.6,-1.6 0.7,-1.4 h 0.6 l 0.7,-1 0.6,-1 0.7,-0.8 0.6,-0.1 0.7,-1.3 0.6,0.2 0.7,-2 0.6,0.7 0.7,-0.7 0.6,-1.9 0.7,-0.1 0.6,-0.7 0.7,-0.5 0.6,-0.2 0.7,-1.1 0.6,0.8 0.7,-2 0.7,0.5 0.6,-1.3 0.7,-0.4 0.6,-0.6 0.7,-0.9 0.6,0.2 0.7,-1.6 0.6,-0.4 0.7,0.5 0.6,-1 0.7,0.3 0.6,-0.6 0.7,-0.6 0.6,-0.7 0.7,0.7 0.6,-1.2 0.7,-0.6 0.6,-0.2 0.7,-1 0.6,-0.1 0.7,0.8 0.6,-1.5 0.7,1.1 0.6,-1.1 0.7,0.2 0.6,-0.7 0.7,-0.8 0.6,0.6 0.7,-0.8 0.6,-0.4 0.7,0.2 h 0.7 l 0.6,-0.8 0.7,-0.2 0.6,-0.6 0.7,-0.3 0.6,0.8 0.7,-0.7 0.6,-1.3 0.7,0.3 0.6,-0.6 0.7,-0.1 0.6,0.5 0.7,-1.2 0.6,0.4 0.7,-0.1 0.6,-0.5 0.7,-0.1 0.6,0.1 0.7,-0.2 0.6,0.3 0.7,-0.8 0.6,-0.7 0.7,-0.3 0.6,0.1 0.7,0.4 0.6,-0.6 0.7,-0.5 0.6,0.1 0.7,-0.1 0.6,-0.3 0.7,-0.3 0.6,0.1 0.7,-1 0.7,-0.5 0.6,0.6 0.7,0.3 0.6,-0.7 0.7,0.5 0.6,-0.5 0.7,0.1 0.6,-0.5 0.7,-0.9 0.6,0.2 0.7,0.2 0.6,-0.8 0.7,-0.1 0.6,0.2 0.7,0.2 0.6,-0.9 0.7,1.1 0.6,-1 0.7,0.1 0.6,0.2 0.7,-0.2 0.6,-0.9 0.7,0.4 0.6,-0.2 0.7,-0.9 0.6,0.4 0.7,-0.6 0.6,0.6 0.7,-0.7 0.6,-0.1 0.7,0.6 0.7,-0.3 0.6,-0.4 0.7,-0.5 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,-0.4 0.6,0.3 0.7,-0.4 0.6,-0.3 h 0.7 l 0.6,-0.3 0.7,-0.1 h 0.6 0.7 l 0.6,-0.2 0.7,-0.3 0.6,0.4 0.7,-0.4 0.6,-0.3 0.7,0.1 0.6,-0.7 0.7,0.6 0.6,-0.3 0.7,-0.4 0.6,0.3 0.7,-0.5 0.6,-0.3 0.7,0.2 0.6,-0.4 0.7,0.3 0.6,0.1 0.7,-1.1 0.7,0.7 0.6,-0.4 h 0.7 l 0.6,0.1 0.7,-0.5 0.6,0.4 0.7,-0.7 0.6,0.1 0.7,0.4 0.6,-0.8 0.7,0.3 0.6,-0.5 0.7,0.3 0.6,-0.2 0.7,-0.5 0.6,0.4 0.7,-0.2 0.6,-0.2 0.7,-0.2 0.6,-0.2 0.7,-0.2 0.6,0.6 0.7,-0.6 0.6,0.2 0.7,-0.2 0.6,-0.4 0.7,0.4 0.6,-0.4 0.7,-0.2 0.6,-0.1 0.7,0.2 0.6,-0.3 0.7,-0.2 h 0.7 0.6 l 0.7,-0.1 0.6,-0.2 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,0.1 0.7,-0.2 0.6,-0.1 0.7,-0.2 0.6,-0.2 h 0.7 l 0.6,0.2 0.7,-0.3 0.6,0.5 0.7,-0.5 h 0.6 l 0.7,-0.2 0.6,-0.2 0.7,0.2 0.6,-0.3 0.7,0.2 0.6,0.2 0.7,-0.3 0.6,-0.4 0.7,0.2 0.6,-0.1 0.7,0.3 0.6,-0.7 0.7,0.2 0.7,-0.1 0.6,-0.1 0.7,-0.3 0.6,0.3 0.7,-0.2 0.6,-0.1 0.7,-0.4 0.6,0.3 h 0.7 l 0.6,-0.2 0.7,0.1 0.6,-0.1 h 0.7 l 0.6,-0.4 0.7,-0.2 0.6,0.1 0.7,0.4 0.6,-0.4 h 0.7 l 0.6,-0.1 0.7,-0.2 0.6,0.4 0.7,-0.1 0.6,-0.3 0.7,-0.1 0.6,0.2 0.7,-0.2 0.6,-0.1 0.7,-0.3 0.6,0.4 0.7,0.1 0.6,-0.3 0.7,0.2 h 0.7 l 0.6,-0.3 h 0.7 0.6 0.7 l 0.6,-0.1 0.7,-0.3 0.6,0.4 0.7,-0.3 h 0.6 l 0.7,0.1 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,0.1 0.6,0.3 0.7,-0.5 0.6,0.1 h 0.7 l 0.6,0.1 0.7,0.4 0.6,-0.6 0.7,-0.2 0.6,0.3 0.7,-0.1 0.6,0.1 0.7,-0.2 0.6,0.3 0.7,-0.2 h 0.6 l 0.7,0.1 0.7,-0.1 0.6,0.1 0.7,-0.1 0.6,0.1 0.7,-0.2 0.6,0.1 h 0.7 0.6 l 0.7,-0.3 0.6,0.3 0.7,-0.2 h 0.6 l 0.7,0.2 0.6,0.1 h 0.7 l 0.6,-0.2 0.7,0.2 0.6,0.1 0.7,-0.2 0.6,-0.1 0.7,0.2 0.6,0.2 0.7,-0.3 0.6,-0.1 0.7,0.1 0.6,0.2 h 0.7 l 0.6,-0.1 h 0.7 l 0.6,0.4 0.7,-0.3 0.6,-0.1 0.7,0.1 0.7,-0.1 0.6,0.2 0.7,0.2 0.6,-0.4 0.7,0.2 0.6,0.1 0.7,-0.1 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,0.1 0.6,-0.1 h 0.7 l 0.6,0.2 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,0.1 0.7,0.1 0.6,-0.1 0.7,0.1 0.6,-0.2 0.7,0.1 0.6,0.2 0.7,-0.2 0.6,0.1 0.7,-0.1 0.6,0.1 0.7,0.1 0.6,0.2 0.7,-0.3 0.6,0.2 h 0.7 l 0.7,0.3 0.6,-0.2 0.7,-0.1 0.6,0.2 0.7,0.1 0.6,-0.1 0.7,0.5 0.6,-0.6 0.7,0.5 0.6,-0.2 0.7,-0.2 0.6,0.3 0.7,-0.2 0.6,0.3 h 0.7 l 0.6,0.2 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,-0.3 0.7,0.4 h 0.6 l 0.7,0.3 0.6,-0.3 0.7,0.2 0.6,-0.1 h 0.7 l 0.6,0.4 h 0.7 0.6 l 0.7,-0.1 0.7,0.1 h 0.6 l 0.7,0.1 0.6,-0.1 0.7,0.1 0.6,-0.1 0.7,0.3 0.6,0.4 0.7,-0.6 0.6,0.3 0.7,-0.2 0.6,0.5 0.7,-0.3 0.6,0.3 0.7,-0.3 0.6,0.2 0.7,0.3 0.6,-0.1 0.7,-0.2 0.6,0.3 0.7,-0.2 0.6,0.1 h 0.7 0.6 l 0.7,0.1 0.6,0.2 0.7,0.2 0.6,-0.1 0.7,-0.4 0.6,0.3 0.7,0.1 0.6,-0.1 h 0.7 l 0.7,0.3 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,0.1 0.6,0.2 0.7,-0.4 0.6,0.2 0.7,0.2 0.6,-0.3 0.7,0.2 0.6,0.1 0.7,-0.3 0.6,0.3 0.7,0.2 0.6,0.2 0.7,-0.4 0.6,-0.1 0.7,0.5 0.6,-0.1 0.7,-0.2 0.6,0.2 0.7,0.3 0.6,-0.1 0.7,-0.3 0.6,0.2 0.7,-0.1 0.6,0.2 h 0.7 l 0.6,0.3 0.7,0.1 0.6,-0.1 0.7,-0.1 0.7,-0.1 0.6,0.1 h 0.7 l 0.6,0.3 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,-0.1 0.7,0.2 0.6,0.1 h 0.7 l 0.6,0.1 0.7,-0.3 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,-0.2 0.6,0.4 h 0.7 l 0.6,-0.1 0.7,0.1 0.6,0.3 0.7,-0.2 0.6,-0.2 h 0.7 l 0.6,0.4 0.7,-0.2 0.6,0.4 0.7,0.1 0.6,-0.5 0.7,0.3 0.7,-0.3 0.6,0.3 0.7,-0.4 0.6,0.1 h 0.7 l 0.6,0.3 h 0.7 l 0.6,0.2 0.7,-0.3 0.6,-0.2 0.7,0.3 h 0.6 l 0.7,0.4 0.6,-0.5 0.7,-0.1 0.6,0.1 h 0.7 0.6 l 0.7,-0.3 0.6,0.2 0.7,0.4 0.6,-0.4 0.7,0.2 0.6,-0.1 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,0.2 0.7,-0.1 0.6,-0.2 0.7,0.1 h 0.6 l 0.7,-0.1 0.7,0.3 0.6,-0.3 0.7,0.3 h 0.6 l 0.7,-0.4 0.6,0.3 h 0.7 l 0.6,0.1 0.7,-0.3 h 0.6 l 0.7,0.3 0.6,-0.1 h 0.7 l 0.6,-0.3 0.7,0.2 h 0.6 l 0.7,0.2 0.6,-0.5 0.7,0.2 0.6,-0.2 0.7,0.2 h 0.6 l 0.7,-0.3 0.6,0.5 0.7,-0.2 h 0.6 l 0.7,-0.3 0.6,0.3 0.7,-0.1 h 0.6 0.7 l 0.7,-0.1 0.6,0.1 0.7,0.2 0.6,-0.1 0.7,-0.1 0.6,0.2 0.7,-0.4 0.6,-0.3 0.7,0.6 0.6,-0.3 0.7,0.6 0.6,-0.6 h 0.7 l 0.6,-0.1 0.7,0.1 0.6,0.1 0.7,-0.3 0.6,0.2 0.7,0.1 0.6,-0.2 0.7,0.4 0.6,-0.4 0.7,0.1 0.6,-0.3 0.7,-0.2 0.6,0.2 0.7,0.1 0.6,0.1 0.7,-0.2 h 0.6 0.7 l 0.6,0.2 0.7,-0.2"
+             stroke="#fcbba1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_3">
+        <title
+           id="title8628">R=275k</title>
+        <g
+           id="g8636"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <g
+             id="g8634"
+             text-anchor="end"
+             font-size="20px"
+             font-family="Verdana"
+             fill="#000000"
+             stroke="none"
+             transform="translate(644.9,420.5)">
+            <text
+               id="text8632"><tspan
+                 id="tspan8630"
+                 font-family="Verdana">R=275k</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8640"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path8638"
+             d="m 658.9,414 h 71 M 107,111.5 l 0.7,-0.2 0.6,0.1 0.7,-0.5 h 0.6 l 0.7,-0.3 0.6,0.5 0.7,-0.1 0.6,-0.2 0.7,0.1 0.6,-0.1 0.7,-0.5 0.6,0.7 0.7,-1.2 0.6,0.9 h 0.7 l 0.6,-0.3 0.7,-0.1 0.6,-0.2 0.7,0.7 0.6,-0.7 0.7,0.2 0.6,-0.3 0.7,-0.4 0.6,0.5 0.7,-0.8 0.6,0.2 0.7,-0.2 0.6,0.7 0.7,-0.2 0.6,-0.2 0.7,0.3 0.6,-0.8 0.7,0.8 0.7,-0.9 0.6,0.2 0.7,0.8 0.6,-0.8 0.7,0.2 0.6,-0.6 0.7,0.2 0.6,-0.1 0.7,-0.5 0.6,0.5 0.7,-0.1 h 0.6 l 0.7,-0.5 0.6,-0.1 0.7,0.5 h 0.6 l 0.7,-0.9 h 0.6 l 0.7,0.5 h 0.6 l 0.7,-0.4 0.6,0.3 0.7,-0.5 0.6,0.6 0.7,-0.6 0.6,-0.1 0.7,0.3 0.6,-0.9 0.7,0.3 h 0.6 l 0.7,-0.4 0.7,-0.3 0.6,0.1 0.7,0.1 0.6,-0.2 h 0.7 l 0.6,0.3 0.7,-1.1 0.6,0.3 0.7,-0.5 h 0.6 l 0.7,0.1 0.6,0.4 0.7,-0.4 0.6,-0.1 0.7,-0.4 0.6,0.1 0.7,0.2 0.6,-0.8 0.7,0.6 0.6,-0.6 0.7,-0.1 0.6,-0.3 0.7,-0.1 0.6,-0.3 0.7,0.6 0.6,-1.7 0.7,1 0.6,-0.3 0.7,0.2 0.6,-0.9 0.7,0.8 0.6,-0.6 0.7,-0.2 0.7,-0.5 0.6,-0.3 0.7,-0.2 0.6,-0.5 0.7,0.1 0.6,0.4 0.7,-0.4 0.6,0.1 0.7,-1.1 0.6,0.3 0.7,-1.7 0.6,0.3 0.7,-0.4 0.6,0.7 0.7,-0.9 0.6,-0.2 0.7,0.2 0.6,-0.4 0.7,-0.8 0.6,-0.3 0.7,-0.3 0.6,-0.1 0.7,-0.9 0.6,0.2 0.7,-0.6 0.6,-0.6 0.7,-0.7 0.6,1.4 0.7,-1.6 0.6,-1.2 0.7,0.4 0.7,-0.9 0.6,-0.7 0.7,-0.7 0.6,-0.2 0.7,-0.4 0.6,-0.4 0.7,-1.1 0.6,-0.3 0.7,-0.5 0.6,-0.6 0.7,-0.8 0.6,-0.3 0.7,-0.9 0.6,-0.7 0.7,-0.7 0.6,-0.7 0.7,-1.1 0.6,-0.4 0.7,-1.2 h 0.6 l 0.7,-0.8 0.6,-0.5 0.7,-0.9 0.6,-0.8 0.7,-0.8 h 0.6 l 0.7,-1.2 0.6,-0.7 0.7,-0.4 0.6,-0.1 0.7,-0.1 0.6,0.2 0.7,-0.3 0.7,-0.2 0.6,0.1 0.7,0.6 0.6,0.7 0.7,0.6 0.6,0.6 0.7,1.1 0.6,1.1 0.7,1.3 0.6,1.4 0.7,1.7 0.6,1.7 0.7,1.3 0.6,2 0.7,1.7 0.6,2.1 0.7,2.3 0.6,1.7 0.7,1.5 0.6,1.7 0.7,1.8 0.6,2.1 0.7,1.5 0.6,1.9 0.7,1.2 0.6,1.6 0.7,1.6 0.6,1.7 0.7,1.1 0.6,1.9 0.7,0.2 0.6,1 0.7,1.8 0.7,-0.1 0.6,0.5 0.7,1.4 0.6,1.5 0.7,0.4 0.6,1.5 0.7,-0.4 0.6,0.2 0.7,1.2 0.6,0.1 0.7,0.7 h 0.6 l 0.7,0.2 0.6,0.7 0.7,-0.3 0.6,0.5 0.7,-0.5 0.6,0.7 0.7,1 0.6,-0.8 0.7,1 0.6,0.2 0.7,-1 0.6,0.2 0.7,0.7 0.6,-0.3 0.7,-0.3 0.6,0.9 0.7,-0.4 0.6,-1.1 0.7,1.4 h 0.7 l 0.6,-0.5 0.7,1.5 0.6,-2.2 0.7,1.3 0.6,-0.6 0.7,0.4 0.6,-0.5 h 0.7 l 0.6,0.1 0.7,-0.9 0.6,0.2 0.7,-0.1 0.6,0.2 0.7,0.8 0.6,-1.2 0.7,-0.2 0.6,0.6 0.7,-0.7 0.6,0.4 0.7,-0.6 0.6,1 0.7,-1.2 0.6,1.2 0.7,-0.5 0.6,0.3 0.7,-0.4 0.6,0.5 0.7,-1.2 0.6,-1.4 0.7,1.9 0.6,-0.1 0.7,-0.4 0.7,0.7 0.6,-0.8 0.7,0.6 0.6,-0.8 0.7,-0.2 0.6,1 0.7,-0.7 0.6,-1.2 0.7,-0.2 0.6,1.5 0.7,-0.3 0.6,-0.3 0.7,-0.8 0.6,1.6 0.7,-0.8 0.6,0.1 0.7,-0.2 0.6,0.7 0.7,-0.1 0.6,-0.6 0.7,0.3 0.6,0.4 0.7,0.2 0.6,-0.5 0.7,-0.6 0.6,1 0.7,0.5 0.6,-1.2 0.7,0.2 0.6,0.1 0.7,0.3 0.6,0.2 0.7,0.8 0.7,-1.2 0.6,1.2 0.7,0.2 0.6,-0.4 0.7,0.3 0.6,-0.7 0.7,1.1 0.6,-0.3 0.7,0.5 0.6,-0.8 0.7,1.7 0.6,-0.1 0.7,0.4 0.6,-0.5 0.7,1.2 0.6,-0.2 0.7,0.4 0.6,0.4 0.7,-0.6 0.6,1.4 0.7,-0.5 0.6,1.5 0.7,-0.8 0.6,0.8 0.7,0.8 0.6,0.1 0.7,0.3 0.6,0.8 0.7,0.7 0.6,1.1 h 0.7 l 0.7,0.4 0.6,0.9 0.7,0.5 0.6,1.5 0.7,-0.8 0.6,1.5 0.7,0.5 0.6,1.8 0.7,0.2 0.6,1.3 0.7,0.6 0.6,1.1 0.7,1 0.6,-0.4 0.7,4.1 0.6,-1.7 0.7,2.2 0.6,2.1 0.7,0.8 0.6,0.9 0.7,1.5 0.6,1.3 0.7,2.2 0.6,0.8 0.7,2.9 0.6,0.7 0.7,1.9 0.6,2.5 0.7,0.9 0.6,4.1 0.7,0.8 0.6,1.5 0.7,2.9 0.7,1.9 0.6,3.3 0.7,3.3 0.6,3.2 0.7,1.8 0.6,3.1 0.7,3.1 0.6,5.4 0.7,0.6 0.6,4 0.7,5.8 0.6,9 0.7,2.5 0.6,6.9 0.7,1.3 0.6,8 0.7,8.9 0.6,5.1 0.7,14.7 0.6,4.4 0.7,7.4 0.6,12.2 0.7,29.6 0.6,10.8 0.7,29.3 0.6,25.9 0.7,79.2 0.6,-109.9 0.7,-5 0.6,-24.4 0.7,-19.9 0.7,-13.9 0.6,-15.8 0.7,-11.4 0.6,-13.2 0.7,-2.5 0.6,-8 0.7,-9.9 0.6,-5.2 0.7,-0.8 0.6,-4.6 0.7,-3.9 0.6,-5.1 0.7,-3.1 0.6,-4.6 0.7,-4.2 0.6,-1 0.7,-5.3 0.6,0.2 0.7,-5.6 0.6,-2.1 0.7,-0.6 0.6,-2.5 0.7,-2 0.6,-2.1 0.7,-1.8 0.6,-2.7 0.7,-3.3 0.6,-2.1 0.7,-0.1 0.6,-1.1 0.7,-1.6 0.6,-2.7 0.7,-1 0.7,-1.6 0.6,-1.4 0.7,-3 0.6,0.9 0.7,-1.8 0.6,-1.6 0.7,-1.5 0.6,-0.4 0.7,-0.4 0.6,-1.9 0.7,-1.4 0.6,0.4 0.7,-1.3 0.6,-1.2 0.7,-1 0.6,-1.2 0.7,-0.8 0.6,-0.8 0.7,-0.7 0.6,-1.3 0.7,-0.4 0.6,-1.2 0.7,-0.5 h 0.6 l 0.7,-0.7 0.6,-2.2 0.7,0.8 h 0.6 l 0.7,-2.3 0.6,0.7 0.7,-0.5 0.6,-1 0.7,-1.6 0.7,-0.1 0.6,-0.6 0.7,-0.3 0.6,-1.4 0.7,0.9 0.6,-1.8 0.7,0.3 0.6,-0.3 0.7,-1.9 0.6,0.2 0.7,-0.1 0.6,-0.1 0.7,-0.3 0.6,-0.6 0.7,-0.6 0.6,-0.6 0.7,-1.4 0.6,0.4 0.7,-0.6 0.6,0.1 0.7,-0.5 0.6,-0.4 0.7,-0.7 0.6,-0.2 0.7,0.3 0.6,-1 0.7,-0.5 0.6,-0.5 0.7,0.5 0.6,-0.1 0.7,-0.7 0.7,-0.4 h 0.6 l 0.7,-0.3 0.6,-0.1 0.7,-0.1 0.6,-1.5 0.7,-0.5 h 0.6 l 0.7,-0.7 0.6,0.6 0.7,-0.5 0.6,-0.3 0.7,-0.5 0.6,0.1 0.7,-1.1 0.6,0.8 0.7,-0.7 0.6,-0.5 0.7,-0.7 0.6,0.5 0.7,-0.6 0.6,0.1 0.7,-1 0.6,0.9 0.7,-0.8 0.6,-0.5 0.7,-0.1 h 0.6 l 0.7,-0.1 h 0.6 l 0.7,-0.2 0.6,-0.4 0.7,-0.1 0.7,-0.2 0.6,-0.8 0.7,-0.3 0.6,0.5 0.7,-1.1 0.6,0.5 0.7,-0.4 0.6,-0.7 0.7,0.6 0.6,-0.5 0.7,0.1 0.6,-0.5 0.7,0.4 0.6,-1.1 0.7,0.6 0.6,-1.2 0.7,0.6 0.6,0.3 0.7,-0.4 0.6,-0.6 0.7,-0.3 h 0.6 l 0.7,-0.3 0.6,0.5 0.7,-0.9 0.6,-0.4 0.7,0.1 0.6,-0.3 h 0.7 l 0.6,0.2 0.7,-0.5 0.7,-0.4 0.6,-0.3 0.7,0.3 0.6,-0.3 h 0.7 0.6 l 0.7,-0.2 0.6,-0.5 0.7,-0.1 0.6,-0.5 0.7,0.3 0.6,-1 h 0.7 l 0.6,0.2 0.7,0.4 0.6,-1.1 0.7,0.5 0.6,0.2 0.7,-1.1 0.6,0.6 0.7,-0.8 0.6,0.5 0.7,-0.3 0.6,-0.4 0.7,0.2 0.6,-0.8 0.7,0.6 0.6,-0.2 0.7,-0.3 0.6,-0.4 0.7,0.3 0.6,-0.2 0.7,-0.2 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,-0.3 0.7,-0.1 0.6,-0.6 0.7,0.3 h 0.6 l 0.7,-0.1 0.6,-0.4 0.7,0.1 0.6,-0.1 0.7,-0.6 h 0.6 l 0.7,0.1 0.6,-0.1 0.7,0.1 0.6,-0.1 0.7,-0.7 0.6,-0.1 0.7,0.4 0.6,-0.7 0.7,0.1 h 0.6 l 0.7,-0.4 0.6,0.7 0.7,-0.5 0.6,-0.2 0.7,-0.4 0.6,0.2 0.7,-0.2 0.6,0.2 0.7,-0.6 0.7,-0.2 0.6,0.2 0.7,-0.2 h 0.6 l 0.7,-0.2 h 0.6 0.7 l 0.6,-0.1 0.7,-0.3 0.6,-0.4 0.7,0.4 0.6,-0.5 0.7,0.1 h 0.6 l 0.7,0.1 0.6,-0.5 0.7,-0.1 0.6,-0.2 0.7,0.3 0.6,-0.3 0.7,0.4 0.6,-0.7 0.7,0.1 0.6,-0.3 0.7,-0.1 0.6,0.5 0.7,-0.4 0.6,-0.5 0.7,0.1 0.6,-0.3 0.7,0.6 0.7,-0.5 0.6,0.1 0.7,-0.2 0.6,-0.2 0.7,0.2 0.6,-0.5 0.7,0.3 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,-0.2 0.6,-0.2 0.7,0.1 0.6,-0.1 0.7,-0.2 0.6,0.2 0.7,-0.5 0.6,0.4 0.7,-0.5 0.6,0.2 0.7,-0.1 0.6,-0.2 0.7,0.5 0.6,-0.4 0.7,-0.2 h 0.6 l 0.7,-0.1 0.6,0.1 0.7,-0.2 0.6,-0.2 0.7,0.3 0.6,-0.1 0.7,-0.2 h 0.7 l 0.6,-0.1 0.7,0.5 0.6,-0.4 h 0.7 l 0.6,-0.1 0.7,-0.3 h 0.6 l 0.7,0.2 0.6,0.1 0.7,-0.4 0.6,-0.2 0.7,0.1 0.6,0.2 h 0.7 l 0.6,0.1 0.7,-0.5 0.6,0.4 0.7,-0.3 0.6,-0.1 0.7,0.2 0.6,-0.1 0.7,0.3 0.6,-0.7 0.7,0.1 0.6,0.3 0.7,-0.4 0.6,0.1 0.7,0.3 0.6,-0.2 h 0.7 0.7 l 0.6,-0.1 0.7,0.1 h 0.6 0.7 l 0.6,0.1 0.7,-0.5 0.6,0.2 0.7,0.2 0.6,-0.2 0.7,0.1 0.6,-0.3 0.7,0.3 0.6,-0.1 0.7,0.2 0.6,0.1 0.7,-0.4 h 0.6 0.7 l 0.6,0.3 h 0.7 l 0.6,-0.2 0.7,0.4 0.6,-0.3 h 0.7 l 0.6,0.1 0.7,-0.1 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.1 0.7,0.2 0.7,0.1 0.6,-0.3 0.7,0.5 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,-0.3 0.6,0.1 0.7,0.3 0.6,-0.2 0.7,0.4 0.6,-0.2 0.7,0.1 0.6,-0.1 h 0.7 0.6 l 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,0.2 0.7,-0.1 0.6,-0.1 0.7,0.3 0.6,-0.4 0.7,0.6 0.6,-0.2 0.7,-0.2 0.6,0.2 h 0.7 l 0.6,-0.1 h 0.7 l 0.6,0.3 0.7,-0.2 0.7,0.1 0.6,0.4 0.7,-0.3 0.6,-0.3 0.7,0.4 0.6,0.1 0.7,-0.3 0.6,0.3 0.7,0.1 0.6,-0.1 0.7,0.3 0.6,0.1 h 0.7 l 0.6,-0.1 0.7,-0.1 0.6,-0.1 0.7,0.2 h 0.6 l 0.7,0.1 h 0.6 l 0.7,0.1 0.6,0.2 0.7,-0.3 0.6,0.4 0.7,-0.1 0.6,0.1 h 0.7 l 0.6,0.4 0.7,-0.4 0.6,0.1 h 0.7 l 0.7,-0.1 h 0.6 l 0.7,0.3 0.6,-0.2 0.7,0.2 0.6,0.1 h 0.7 l 0.6,0.1 0.7,-0.1 0.6,0.3 0.7,-0.3 h 0.6 l 0.7,0.1 h 0.6 l 0.7,0.1 0.6,-0.2 0.7,0.2 h 0.6 l 0.7,0.3 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,0.3 0.6,-0.2 0.7,-0.1 0.6,0.6 0.7,-0.1 0.6,-0.3 h 0.7 l 0.6,0.4 0.7,-0.1 h 0.6 l 0.7,-0.1 0.7,0.4 0.6,-0.2 0.7,-0.2 0.6,0.2 0.7,0.2 0.6,-0.1 h 0.7 l 0.6,0.2 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,-0.1 0.7,0.3 0.6,0.2 h 0.7 0.6 l 0.7,-0.2 0.6,0.1 0.7,-0.3 0.6,0.4 0.7,-0.2 0.6,0.1 0.7,-0.1 0.6,0.4 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,-0.1 0.7,0.1 0.6,-0.2 0.7,0.4 0.6,-0.1 0.7,-0.1 h 0.7 l 0.6,-0.2 0.7,0.2 0.6,0.5 0.7,-0.2 0.6,-0.1 0.7,-0.1 0.6,0.1 0.7,0.3 h 0.6 l 0.7,-0.2 0.6,0.2 0.7,-0.3 0.6,0.2 0.7,0.1 0.6,-0.4 0.7,0.2 0.6,0.2 0.7,-0.2 0.6,0.2 0.7,0.1 h 0.6 l 0.7,-0.3 h 0.6 0.7 0.6 l 0.7,-0.1 0.6,0.2 0.7,-0.1 0.6,0.1 0.7,0.1 0.7,-0.1 h 0.6 l 0.7,0.4 0.6,-0.1 0.7,-0.3 0.6,0.7 0.7,-0.5 h 0.6 l 0.7,0.1 0.6,-0.4 0.7,0.1 0.6,0.2 0.7,0.2 0.6,-0.5 0.7,0.1 0.6,0.1 0.7,-0.2 0.6,0.6 0.7,-0.8 0.6,0.9 0.7,-0.6 0.6,0.1 0.7,0.1 0.6,0.2 0.7,-0.1 0.6,-0.3 0.7,0.1 0.6,-0.1 0.7,0.2 0.6,-0.1 h 0.7 l 0.6,0.2 0.7,-0.3 h 0.7 l 0.6,-0.1 0.7,0.4 h 0.6 0.7 l 0.6,-0.5 0.7,0.4 0.6,-0.4 0.7,0.4 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.1 h 0.7 l 0.6,-0.3 0.7,0.6 h 0.6 l 0.7,-0.6 h 0.6 l 0.7,0.3 0.6,-0.2 0.7,-0.1 0.6,0.2 0.7,-0.1 h 0.6 l 0.7,-0.5 0.6,0.5 0.7,0.2 0.6,-0.3 0.7,-0.3 0.7,0.5 h 0.6 l 0.7,-0.1 0.6,0.2 0.7,-0.2 0.6,0.2 0.7,-0.6 0.6,0.1 0.7,0.1 h 0.6 l 0.7,0.3 0.6,-0.5 0.7,0.1 0.6,-0.2 0.7,0.2 0.6,0.3 0.7,-0.4 0.6,-0.2 0.7,0.1 0.6,0.3 h 0.7 l 0.6,0.1 0.7,-0.3 0.6,-0.2 0.7,0.4 0.6,0.1 0.7,-0.4 0.6,0.3 0.7,-0.1 0.6,0.1 0.7,-0.4 0.6,0.5 0.7,-0.5"
+             stroke="#fc9272"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_4">
+        <title
+           id="title8643">R=400k</title>
+        <g
+           id="g8651"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <g
+             id="g8649"
+             text-anchor="end"
+             font-size="20px"
+             font-family="Verdana"
+             fill="#000000"
+             stroke="none"
+             transform="translate(644.9,450.5)">
+            <text
+               id="text8647"><tspan
+                 id="tspan8645"
+                 font-family="Verdana">R=400k</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8655"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path8653"
+             d="m 658.9,444 h 71 M 107,111.9 l 0.7,-0.1 0.6,0.6 0.7,-0.4 0.6,-0.2 h 0.7 l 0.6,0.1 0.7,-0.3 0.6,0.1 h 0.7 l 0.6,0.4 0.7,-0.5 0.6,-0.5 0.7,0.1 0.6,-0.4 0.7,0.7 0.6,-0.4 0.7,-0.2 0.6,0.5 0.7,-0.9 h 0.6 l 0.7,0.3 0.6,-0.2 0.7,0.5 0.6,-0.9 0.7,0.3 0.6,-0.5 0.7,0.5 0.6,-0.2 0.7,-0.4 0.6,0.3 0.7,-0.3 0.6,0.4 h 0.7 0.7 l 0.6,-0.3 h 0.7 l 0.6,-0.1 0.7,-0.4 0.6,0.6 0.7,-0.8 0.6,0.3 0.7,0.6 0.6,-1 0.7,-0.1 0.6,0.3 0.7,-0.3 0.6,0.3 0.7,-0.3 0.6,-0.3 0.7,-0.1 0.6,0.5 0.7,-0.5 0.6,0.2 0.7,-0.5 h 0.6 l 0.7,-0.2 0.6,0.2 0.7,0.2 0.6,-0.3 0.7,0.7 0.6,-1.7 0.7,0.8 0.6,-0.3 h 0.7 l 0.7,0.1 0.6,0.2 0.7,-0.6 h 0.6 l 0.7,-0.3 0.6,-0.2 0.7,0.1 0.6,-0.1 0.7,0.3 0.6,-0.9 0.7,0.1 0.6,0.1 0.7,-0.5 0.6,-0.2 0.7,-0.1 0.6,0.8 0.7,-1.1 0.6,0.6 0.7,-0.7 0.6,0.9 0.7,-1 0.6,0.3 0.7,-0.3 0.6,-0.3 0.7,-1.2 0.6,1.3 0.7,-0.3 0.6,-0.1 0.7,-0.9 0.6,0.2 0.7,-0.3 0.6,-0.1 0.7,-0.3 h 0.7 l 0.6,-0.5 0.7,0.1 0.6,-0.3 0.7,-0.5 0.6,0.3 0.7,-1 0.6,0.5 0.7,-0.5 0.6,-0.5 0.7,0.4 0.6,-0.6 0.7,-1 0.6,-0.4 0.7,1.3 0.6,-1.2 0.7,-0.2 0.6,-0.5 0.7,-0.3 0.6,0.1 0.7,-0.8 0.6,-0.2 0.7,-0.5 0.6,-0.3 0.7,-0.4 0.6,-0.2 0.7,-0.4 0.6,-0.9 0.7,-0.6 0.6,-0.4 h 0.7 l 0.7,-0.7 0.6,-0.5 0.7,-0.8 0.6,0.1 0.7,-0.5 0.6,-0.8 0.7,-0.7 0.6,-0.9 0.7,-0.5 0.6,-0.4 0.7,-0.6 0.6,-0.6 0.7,-0.6 0.6,-0.7 0.7,-1.2 0.6,-0.9 0.7,-0.5 0.6,-0.5 0.7,-0.8 0.6,-1 0.7,-0.6 0.6,-0.8 0.7,-0.6 0.6,-0.4 0.7,-0.7 0.6,-0.9 0.7,-0.4 0.6,-0.7 0.7,-0.5 0.6,-0.5 0.7,-0.1 0.6,-0.2 h 0.7 0.7 0.6 l 0.7,0.2 0.6,0.8 0.7,0.4 0.6,0.9 0.7,1.3 0.6,1 0.7,1.1 0.6,1.6 0.7,1.4 0.6,2.1 0.7,1.4 0.6,1.9 0.7,2 0.6,1.7 0.7,2 0.6,1.7 0.7,1.9 0.6,2.1 0.7,1.7 0.6,1.7 0.7,1.4 0.6,2.2 0.7,1.7 0.6,1.8 0.7,0.9 0.6,2.1 0.7,1.1 0.6,1.1 0.7,1.4 0.6,1.5 0.7,0.6 0.7,0.6 0.6,1.1 0.7,1.3 0.6,0.7 0.7,1 0.6,0.2 0.7,0.7 0.6,0.8 0.7,0.7 0.6,0.4 0.7,0.7 0.6,-0.9 0.7,1.3 0.6,1 0.7,-0.4 h 0.6 l 0.7,0.1 0.6,0.8 0.7,-0.9 0.6,1.8 0.7,0.2 0.6,-0.6 0.7,1.3 0.6,-0.8 0.7,0.1 0.6,-0.5 0.7,1.2 0.6,0.1 0.7,-0.7 0.6,0.2 0.7,0.8 0.7,-0.2 0.6,-0.4 0.7,-0.6 0.6,0.8 0.7,-0.5 0.6,0.6 0.7,-0.8 0.6,-0.5 0.7,1.6 h 0.6 l 0.7,-0.2 h 0.6 0.7 l 0.6,-0.7 0.7,-0.4 0.6,1.2 0.7,-0.7 0.6,0.9 0.7,-1 0.6,0.4 0.7,0.5 0.6,-0.8 0.7,-0.2 0.6,0.8 h 0.7 l 0.6,-0.4 0.7,-0.8 0.6,0.4 0.7,1.8 0.6,-1.7 0.7,1.6 0.6,-1.3 0.7,0.7 0.7,-0.1 h 0.6 l 0.7,-1 0.6,-0.1 0.7,0.3 0.6,-0.3 0.7,-0.2 0.6,1.3 0.7,-0.8 0.6,0.2 0.7,-0.1 0.6,0.9 0.7,0.1 0.6,-1.3 0.7,0.1 0.6,0.8 h 0.7 l 0.6,0.7 0.7,-0.4 h 0.6 l 0.7,-0.1 0.6,0.1 0.7,0.1 0.6,0.2 0.7,0.8 0.6,-0.2 0.7,-0.2 0.6,0.2 0.7,0.5 0.6,-0.2 0.7,-0.2 0.6,1 0.7,0.2 0.7,-0.3 0.6,-0.3 0.7,1.1 0.6,0.1 0.7,0.3 0.6,0.4 h 0.7 l 0.6,1 0.7,-0.9 0.6,1.6 0.7,-1.1 0.6,1 0.7,0.5 0.6,-0.1 0.7,0.8 0.6,0.8 0.7,-0.5 0.6,1 0.7,-0.6 0.6,2 0.7,-0.1 0.6,0.6 0.7,1.1 0.6,-0.9 0.7,0.6 0.6,0.4 0.7,0.8 0.6,0.7 0.7,1 0.6,-0.4 0.7,0.6 0.7,1.9 0.6,0.8 0.7,0.7 0.6,1.1 0.7,0.3 0.6,-0.4 0.7,1 0.6,1.8 0.7,1.4 0.6,-0.3 0.7,1.8 0.6,1.7 0.7,-1.3 0.6,2.4 0.7,0.7 0.6,0.6 0.7,2.8 0.6,-0.3 0.7,1.8 0.6,1.3 0.7,0.3 0.6,0.6 0.7,2 0.6,1.8 0.7,2.9 0.6,1 0.7,0.4 0.6,2 0.7,2.1 0.6,0.7 0.7,2.4 0.6,2 0.7,2.4 0.7,1.6 0.6,1.6 0.7,2.3 0.6,0.4 0.7,1.8 0.6,2.6 0.7,2.8 0.6,1.6 0.7,2.4 0.6,5.2 0.7,-0.6 0.6,1.6 0.7,3.8 0.6,0.1 0.7,0.5 0.6,4 0.7,0.6 0.6,1.6 0.7,-1 0.6,1.5 0.7,1.2 0.6,4 0.7,1.3 0.6,-4.1 0.7,1.6 0.6,1.1 0.7,-0.5 0.6,-4.7 0.7,3 0.6,-0.3 0.7,-2.5 0.7,-2.7 0.6,0.4 0.7,-0.8 0.6,-4.4 0.7,-0.7 0.6,-3.2 0.7,-1.5 0.6,-2.4 0.7,-0.4 0.6,-1.2 0.7,-4.4 0.6,-3.4 0.7,-0.3 0.6,-2.9 0.7,-1.7 0.6,-1.1 0.7,-1.3 0.6,-2.7 0.7,-2.2 0.6,-2 0.7,0.5 0.6,-1.1 0.7,-1.5 0.6,-4.3 0.7,-0.2 0.6,0.6 0.7,-4 0.6,1.6 0.7,-1.8 0.6,-3.1 0.7,-1.3 0.6,-1.4 0.7,-0.1 0.7,-0.7 0.6,-1.1 0.7,-2.7 0.6,1.3 0.7,-3.2 0.6,0.3 0.7,-0.8 0.6,-1.9 0.7,-0.3 0.6,-1.8 0.7,0.3 0.6,-1.1 0.7,-1.1 0.6,-1.5 0.7,-0.9 0.6,-0.2 0.7,-1.2 0.6,-0.6 0.7,-0.4 0.6,-0.5 0.7,-1.7 0.6,-1.1 h 0.7 l 0.6,-0.1 0.7,-1.4 0.6,-0.3 0.7,-1 0.6,-0.8 0.7,-1 0.6,-0.3 0.7,0.8 0.6,-1.3 0.7,-0.8 0.7,-0.3 0.6,-1.1 0.7,0.3 0.6,-0.9 0.7,-0.6 0.6,-0.4 0.7,-0.8 0.6,0.4 0.7,-2.1 0.6,-0.2 0.7,0.3 0.6,-1.7 0.7,0.5 0.6,0.2 0.7,-0.9 0.6,-0.3 0.7,-0.3 0.6,-0.6 0.7,-0.1 0.6,-1.5 0.7,1.2 0.6,-0.3 0.7,-1.3 0.6,-0.1 0.7,-0.9 0.6,-1.2 0.7,0.7 0.6,0.1 0.7,-1 0.6,-0.8 0.7,0.2 0.7,-0.8 0.6,0.9 0.7,-0.9 0.6,0.4 0.7,-1.1 0.6,0.3 0.7,-0.5 0.6,-0.5 0.7,-0.3 0.6,-0.6 0.7,-0.2 0.6,-0.7 h 0.7 l 0.6,-0.3 0.7,-0.2 h 0.6 0.7 l 0.6,-0.6 0.7,-0.3 0.6,-0.6 0.7,0.2 0.6,-0.2 h 0.7 l 0.6,-0.6 0.7,-0.1 0.6,-0.8 0.7,-0.1 0.6,0.5 0.7,-1 0.6,0.2 0.7,-0.6 0.6,-0.6 0.7,0.3 0.7,-0.2 0.6,-0.2 0.7,-0.2 0.6,0.1 0.7,-0.5 0.6,-0.8 0.7,0.2 0.6,0.1 0.7,-0.6 0.6,-0.1 0.7,-0.3 h 0.6 0.7 l 0.6,-0.6 0.7,-0.1 0.6,0.2 0.7,-1.4 0.6,0.5 0.7,-0.6 0.6,0.4 0.7,-0.3 h 0.6 l 0.7,-0.9 h 0.6 l 0.7,0.5 0.6,-1 0.7,0.3 0.6,-0.6 h 0.7 0.6 l 0.7,-0.5 0.7,0.3 0.6,-0.8 0.7,0.8 0.6,-0.4 0.7,-0.8 0.6,0.7 0.7,-0.6 0.6,0.1 0.7,-0.3 0.6,-1.1 0.7,0.8 0.6,-0.3 0.7,-0.3 0.6,-0.1 0.7,-0.1 0.6,0.1 0.7,-0.3 0.6,-0.5 0.7,0.3 0.6,-0.3 0.7,-0.6 h 0.6 0.7 l 0.6,-0.4 0.7,-0.4 0.6,0.6 0.7,-0.7 0.6,-0.2 0.7,0.3 0.6,-0.6 h 0.7 l 0.6,-0.3 0.7,0.1 h 0.7 l 0.6,0.1 0.7,-0.5 0.6,0.2 0.7,-0.5 0.6,0.2 0.7,-0.4 0.6,-0.1 h 0.7 0.6 l 0.7,-0.7 0.6,0.4 0.7,-0.9 0.6,0.9 0.7,-1.1 0.6,-0.1 0.7,0.6 0.6,-0.8 0.7,0.3 0.6,-0.3 0.7,-0.1 h 0.6 l 0.7,-0.7 0.6,0.5 0.7,-0.3 0.6,-0.4 0.7,0.5 0.6,-0.4 0.7,-0.3 0.6,-0.3 0.7,0.3 0.6,-0.4 h 0.7 l 0.7,0.2 0.6,-0.2 0.7,-0.3 0.6,-0.1 h 0.7 l 0.6,-0.6 0.7,0.4 0.6,-0.5 0.7,0.2 0.6,-0.2 0.7,-0.1 0.6,-0.2 0.7,0.3 h 0.6 l 0.7,-0.6 h 0.6 l 0.7,-0.2 0.6,-0.1 0.7,0.3 0.6,-0.8 0.7,-0.1 0.6,0.7 0.7,-0.6 0.6,-0.1 0.7,0.2 0.6,0.3 0.7,-0.2 0.6,-0.6 h 0.7 l 0.6,0.3 0.7,-0.3 0.7,-0.5 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.1 0.7,-0.4 0.6,0.5 0.7,-0.1 0.6,-0.2 0.7,-0.5 0.6,0.2 0.7,-0.2 0.6,0.1 0.7,0.1 0.6,-0.2 0.7,-0.2 h 0.6 l 0.7,0.1 0.6,-0.1 0.7,-0.5 0.6,0.1 0.7,0.2 0.6,0.3 0.7,-0.6 0.6,-0.1 0.7,-0.2 0.6,0.2 0.7,-0.1 0.6,0.1 0.7,-0.1 0.6,-0.2 0.7,-0.2 h 0.7 0.6 l 0.7,-0.1 0.6,0.2 0.7,-0.1 0.6,-0.3 0.7,0.2 0.6,0.2 0.7,-0.2 0.6,0.1 0.7,-0.2 0.6,-0.3 0.7,0.1 h 0.6 l 0.7,0.2 0.6,-0.3 h 0.7 l 0.6,-0.1 0.7,-0.1 0.6,0.3 0.7,-0.5 0.6,0.1 h 0.7 l 0.6,-0.1 0.7,0.3 0.6,-0.3 h 0.7 l 0.6,0.2 h 0.7 l 0.6,-0.1 0.7,-0.1 0.7,0.2 0.6,-0.2 0.7,0.2 0.6,-0.4 h 0.7 0.6 0.7 l 0.6,0.3 0.7,-0.3 h 0.6 0.7 l 0.6,-0.1 0.7,0.4 0.6,-0.3 0.7,0.1 h 0.6 l 0.7,0.1 0.6,-0.4 0.7,0.1 h 0.6 l 0.7,0.1 0.6,0.1 0.7,-0.1 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,0.3 0.6,-0.3 0.7,0.4 0.6,-0.1 h 0.7 l 0.6,-0.1 h 0.7 l 0.7,0.3 0.6,-0.2 0.7,0.1 0.6,-0.2 0.7,0.2 h 0.6 l 0.7,-0.2 0.6,0.3 0.7,-0.2 0.6,0.2 h 0.7 l 0.6,-0.1 0.7,-0.1 0.6,0.2 0.7,0.1 h 0.6 l 0.7,-0.2 0.6,0.2 h 0.7 l 0.6,0.1 0.7,-0.1 h 0.6 l 0.7,0.2 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,0.2 h 0.6 l 0.7,-0.2 h 0.6 l 0.7,0.2 h 0.7 l 0.6,0.1 0.7,0.2 0.6,0.1 0.7,-0.4 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,0.4 0.6,-0.4 0.7,0.5 0.6,-0.1 0.7,0.2 0.6,-0.2 0.7,-0.1 h 0.6 l 0.7,0.2 0.6,-0.2 0.7,0.2 0.6,0.1 h 0.7 l 0.6,0.4 0.7,-0.3 0.6,0.1 0.7,-0.2 0.6,0.5 0.7,-0.3 0.6,0.1 0.7,-0.1 0.6,0.3 0.7,-0.3 0.7,0.3 0.6,-0.1 0.7,0.1 0.6,0.1 0.7,-0.1 0.6,-0.2 0.7,0.2 0.6,0.1 0.7,0.1 0.6,0.2 0.7,-0.1 0.6,0.3 0.7,-0.2 0.6,0.1 0.7,-0.2 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,0.3 h 0.6 l 0.7,-0.2 0.6,0.1 0.7,0.4 0.6,-0.4 h 0.7 l 0.6,0.2 h 0.7 l 0.6,0.2 h 0.7 l 0.6,0.1 0.7,-0.1 0.6,-0.1 0.7,0.3 0.7,0.2 0.6,-0.1 0.7,0.1 0.6,-0.8 0.7,0.5 0.6,0.2 h 0.7 l 0.6,0.1 0.7,0.1 0.6,-0.3 0.7,0.2 0.6,-0.2 h 0.7 l 0.6,0.2 0.7,-0.1 0.6,0.2 0.7,0.1 0.6,0.1 0.7,-0.2 0.6,0.1 h 0.7 l 0.6,-0.1 0.7,0.5 0.6,-0.2 h 0.7 0.6 l 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,0.2 0.7,0.1 0.6,-0.2 0.7,-0.2 0.7,0.3 0.6,-0.1 0.7,0.1 0.6,-0.2 0.7,0.2 0.6,-0.3 0.7,0.1 0.6,0.5 0.7,-0.1 0.6,-0.2 0.7,0.1 0.6,0.2 0.7,-0.3 0.6,0.2 0.7,-0.1 0.6,0.3 0.7,-0.3 0.6,0.4 0.7,-0.6 0.6,0.3 h 0.7 l 0.6,-0.1 0.7,0.3 h 0.6 l 0.7,-0.4 0.6,0.5 0.7,-0.4 0.6,0.3 0.7,-0.3 0.6,0.3 0.7,-0.1 0.7,0.2 0.6,0.1 0.7,-0.3 0.6,0.2 0.7,-0.2 0.6,0.2 0.7,0.1 0.6,0.3 0.7,-0.7 0.6,0.1 0.7,0.2 h 0.6 l 0.7,-0.1 h 0.6 l 0.7,-0.2 0.6,0.2 0.7,-0.1 0.6,0.1 0.7,0.3 0.6,-0.1 0.7,-0.1 0.6,-0.1 h 0.7 l 0.6,0.1 0.7,-0.2 0.6,-0.4 h 0.7 l 0.6,0.5 h 0.7 0.6 0.7 l 0.6,-0.2 h 0.7 l 0.7,0.3 0.6,-0.4 0.7,0.5 0.6,0.2 0.7,-0.7 0.6,0.3 h 0.7 l 0.6,-0.1 0.7,-0.1 0.6,0.2 0.7,-0.2 0.6,0.6 0.7,-0.1 0.6,-0.3 0.7,-0.1 h 0.6 l 0.7,-0.2 h 0.6 l 0.7,0.1 0.6,0.5 0.7,-0.6 0.6,0.2 h 0.7 l 0.6,0.3 h 0.7 l 0.6,-0.5 0.7,0.2 0.6,-0.1 0.7,0.1 0.6,-0.1 0.7,0.3 0.7,-0.4 0.6,-0.1 0.7,0.1 0.6,0.2 0.7,-0.2 0.6,-0.2 0.7,0.1 0.6,-0.2 0.7,0.5 0.6,-0.5 0.7,0.1 0.6,0.1 0.7,-0.1 0.6,-0.2 0.7,0.3 0.6,-0.1 0.7,-0.4 0.6,0.2 h 0.7 l 0.6,0.6 0.7,-0.2 0.6,-0.7 0.7,0.6 h 0.6 0.7 l 0.6,-0.5 0.7,0.4 0.6,-0.5 0.7,0.3 0.6,-0.2 0.7,0.1 0.6,-0.2 0.7,0.5"
+             stroke="#ef3b2c"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_5">
+        <title
+           id="title8658">R=1M</title>
+        <g
+           id="g8666"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <g
+             id="g8664"
+             text-anchor="end"
+             font-size="20px"
+             font-family="Verdana"
+             fill="#000000"
+             stroke="none"
+             transform="translate(644.9,480.5)">
+            <text
+               id="text8662"><tspan
+                 id="tspan8660"
+                 font-family="Verdana">R=1M</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8670"
+           stroke-linejoin="miter"
+           stroke-linecap="butt"
+           stroke-width="1.8"
+           stroke="currentColor"
+           color="#000000"
+           fill="none">
+          <path
+             id="path8668"
+             d="m 658.9,474 h 71 M 107,112.6 l 0.7,-0.2 0.6,0.6 0.7,-0.6 0.6,-0.1 0.7,-0.3 0.6,0.1 0.7,-0.1 0.6,0.4 0.7,-0.3 0.6,-0.1 0.7,-0.7 0.6,0.4 0.7,0.3 0.6,0.2 0.7,0.3 0.6,-0.7 0.7,-0.3 h 0.6 l 0.7,0.4 0.6,-0.5 0.7,0.7 0.6,-0.8 0.7,-0.1 0.6,0.8 0.7,-0.6 0.6,-0.8 0.7,0.6 0.6,-0.3 0.7,-0.4 0.6,0.3 0.7,0.2 0.6,0.3 0.7,-1 0.7,0.6 0.6,-0.4 h 0.7 l 0.6,-0.4 0.7,0.3 h 0.6 0.7 l 0.6,0.5 0.7,-0.4 0.6,-0.1 0.7,-0.3 0.6,-0.5 0.7,0.3 0.6,-0.1 0.7,-0.8 0.6,0.7 h 0.7 l 0.6,0.3 0.7,-0.2 0.6,-0.7 0.7,0.6 0.6,0.3 0.7,-0.5 0.6,-0.3 0.7,0.2 0.6,-0.3 h 0.7 l 0.6,-0.8 0.7,0.9 0.6,-0.7 0.7,0.2 0.7,0.6 0.6,-0.4 0.7,-0.3 0.6,-0.4 0.7,-0.3 0.6,0.5 0.7,0.1 0.6,-0.8 0.7,0.2 0.6,0.2 0.7,-0.7 0.6,-0.7 0.7,0.6 0.6,-0.6 0.7,0.8 0.6,-0.4 0.7,-0.1 0.6,-0.5 0.7,0.9 0.6,-0.3 0.7,-1 0.6,0.5 0.7,-0.1 0.6,-0.4 0.7,-0.2 0.6,-0.3 0.7,0.7 h 0.6 l 0.7,-0.9 h 0.6 l 0.7,-1.5 0.6,1.4 0.7,-0.4 h 0.7 l 0.6,-1.1 0.7,-0.3 0.6,-0.2 0.7,0.3 0.6,-0.7 0.7,0.5 0.6,-0.4 0.7,-0.4 h 0.6 l 0.7,-0.2 0.6,-0.4 h 0.7 l 0.6,-0.4 0.7,-0.4 0.6,-0.9 0.7,0.3 0.6,-0.8 0.7,0.4 0.6,-0.8 h 0.7 l 0.6,-0.6 0.7,-0.1 0.6,0.2 0.7,-1.2 0.6,-0.7 0.7,-0.5 h 0.6 l 0.7,-0.4 0.6,-0.7 0.7,-1.2 0.7,-0.4 0.6,-0.3 0.7,-0.2 0.6,-0.6 0.7,-0.2 0.6,-1.1 0.7,-0.1 0.6,-0.7 0.7,-0.7 0.6,-0.9 0.7,-0.3 0.6,-1.2 0.7,-0.7 0.6,-0.7 0.7,-0.8 0.6,-0.7 0.7,-0.8 0.6,-0.5 0.7,-1 0.6,-0.6 0.7,-1.2 0.6,-0.3 0.7,-1.6 0.6,-0.3 0.7,-0.5 0.6,-1 0.7,-0.5 0.6,-0.8 0.7,-0.7 0.6,-0.2 0.7,-0.3 0.6,-0.2 0.7,-0.2 0.7,-0.2 0.6,0.3 0.7,0.4 0.6,0.4 0.7,0.7 0.6,0.7 0.7,0.8 0.6,1.2 0.7,1.6 0.6,1.4 0.7,1.4 0.6,1.6 0.7,1.4 0.6,2.2 0.7,1.8 0.6,2.3 0.7,1.7 0.6,2.1 0.7,1.8 0.6,1.8 0.7,1.9 0.6,2 0.7,1.7 0.6,2.1 0.7,1.7 0.6,1.2 0.7,2 0.6,1.6 0.7,1.5 0.6,1.4 0.7,1.3 0.6,1 0.7,1.1 0.7,0.7 0.6,1.9 0.7,1 0.6,0.8 0.7,0.8 0.6,0.8 0.7,1.6 0.6,-1.2 0.7,1.6 0.6,0.7 0.7,0.1 0.6,0.9 0.7,0.3 0.6,0.7 0.7,1.4 0.6,-0.5 0.7,0.7 0.6,0.6 0.7,-0.2 0.6,0.6 0.7,0.2 0.6,1.1 0.7,-0.1 0.6,0.8 0.7,-0.4 0.6,0.3 0.7,0.8 0.6,-0.6 0.7,0.8 0.6,-0.6 0.7,0.1 0.7,-0.6 0.6,0.4 0.7,0.7 0.6,-0.7 0.7,0.4 0.6,0.4 0.7,0.7 0.6,-0.9 0.7,-0.1 h 0.6 l 0.7,0.5 0.6,0.8 0.7,0.6 0.6,-0.1 0.7,-1 0.6,0.3 0.7,0.5 0.6,-1.2 0.7,1.7 0.6,-0.2 0.7,0.4 0.6,-0.7 h 0.7 l 0.6,-0.4 0.7,0.8 0.6,-0.4 0.7,-0.3 0.6,0.2 0.7,0.7 0.6,0.4 0.7,0.5 0.6,-0.1 h 0.7 l 0.7,0.9 0.6,-1.3 0.7,1 0.6,0.1 0.7,-0.4 0.6,0.1 0.7,-0.8 0.6,0.8 0.7,0.6 0.6,-1 0.7,0.3 0.6,-1.6 0.7,3.2 0.6,-1.3 0.7,0.9 0.6,-0.5 h 0.7 l 0.6,0.3 0.7,0.9 0.6,-0.5 0.7,0.3 h 0.6 l 0.7,-0.1 0.6,-0.2 0.7,0.8 0.6,-0.1 0.7,0.7 0.6,-1.5 0.7,1.1 0.6,0.1 0.7,0.4 h 0.6 l 0.7,-0.2 0.7,0.2 0.6,1.1 0.7,-0.1 0.6,-1.2 0.7,0.4 0.6,0.1 0.7,1.2 0.6,-0.4 0.7,0.1 0.6,-0.2 0.7,0.3 0.6,-0.1 0.7,2.6 0.6,-1.7 0.7,-0.3 0.6,0.9 0.7,0.8 0.6,0.2 0.7,-0.1 0.6,-0.1 0.7,0.9 0.6,-0.1 0.7,0.2 0.6,0.5 0.7,-1 0.6,-0.7 0.7,2.5 0.6,-1.2 0.7,-0.1 0.6,-0.3 0.7,0.4 0.7,1.9 0.6,-1.4 0.7,0.9 0.6,0.7 0.7,-1.2 0.6,0.5 0.7,0.7 0.6,0.1 0.7,0.1 0.6,0.7 0.7,-0.2 0.6,0.1 0.7,-0.3 0.6,0.1 0.7,0.1 0.6,0.3 0.7,0.1 h 0.6 l 0.7,0.4 0.6,0.4 0.7,0.3 0.6,0.4 0.7,-0.6 0.6,-0.8 0.7,0.8 0.6,-0.3 0.7,-0.3 0.6,0.2 0.7,0.3 0.6,0.4 0.7,-0.1 0.6,0.9 0.7,-1.2 0.7,-0.2 0.6,0.1 h 0.7 l 0.6,1.5 0.7,-0.4 0.6,-0.8 0.7,0.8 0.6,-1.5 0.7,1.3 h 0.6 l 0.7,-1.1 0.6,0.7 0.7,0.2 0.6,0.2 0.7,-0.7 0.6,0.2 0.7,-0.7 0.6,1.3 0.7,-1.9 0.6,1.9 0.7,-2.2 0.6,-0.5 0.7,0.8 h 0.6 0.7 l 0.6,0.2 0.7,-1 0.6,-0.8 0.7,1 0.6,0.1 0.7,-0.5 0.7,-0.1 h 0.6 l 0.7,-0.2 0.6,-0.4 0.7,-0.1 0.6,-2 0.7,1.1 0.6,0.2 0.7,-0.3 0.6,-0.8 0.7,0.3 0.6,0.2 0.7,-1.9 0.6,1.5 0.7,-1.6 0.6,0.3 0.7,-0.1 0.6,0.9 0.7,-2.2 0.6,0.5 0.7,-1.1 0.6,1.2 0.7,-0.9 0.6,-0.5 0.7,0.1 0.6,0.1 0.7,-0.3 h 0.6 l 0.7,-0.4 0.6,-0.6 0.7,-1 0.6,0.3 0.7,-0.2 0.7,-0.8 0.6,-0.4 0.7,-1.1 0.6,0.6 0.7,-0.6 0.6,0.6 0.7,-1.1 0.6,-0.3 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,-0.4 0.7,-1 0.6,1 0.7,-0.5 0.6,-0.6 0.7,-0.2 0.6,-0.7 0.7,-0.7 0.6,0.5 0.7,-1 0.6,-0.2 0.7,0.2 0.6,-0.8 0.7,-0.1 0.6,-0.3 h 0.7 l 0.6,-0.8 0.7,0.1 0.6,-0.3 0.7,-0.6 0.6,0.2 0.7,-0.8 0.7,0.2 0.6,0.3 0.7,-0.6 0.6,-0.7 0.7,0.4 0.6,-0.5 0.7,-0.4 0.6,-0.6 h 0.7 l 0.6,-0.2 0.7,-0.4 0.6,-0.6 0.7,0.1 0.6,0.4 0.7,-0.9 0.6,-0.3 0.7,-0.8 0.6,1.2 0.7,-2 h 0.6 l 0.7,0.3 0.6,0.1 0.7,-0.1 0.6,-0.8 0.7,-0.9 0.6,0.1 0.7,-0.1 0.6,0.1 0.7,-0.3 0.6,0.1 0.7,-0.1 0.7,-1.2 0.6,0.2 h 0.7 0.6 l 0.7,-0.5 0.6,-0.5 0.7,-0.1 0.6,-1.2 0.7,0.7 0.6,-0.5 0.7,0.1 0.6,-0.2 0.7,-0.4 0.6,-0.3 0.7,-0.5 0.6,0.4 0.7,0.6 0.6,-1.1 0.7,-0.4 0.6,0.4 0.7,-0.4 0.6,-0.3 0.7,-0.2 0.6,-0.9 0.7,0.1 0.6,-0.1 0.7,0.7 0.6,-0.6 0.7,-0.9 0.6,0.2 0.7,-0.6 0.6,-0.4 0.7,0.9 0.7,-0.9 h 0.6 l 0.7,0.2 0.6,-0.4 0.7,-0.3 0.6,-0.5 0.7,-0.3 0.6,0.2 h 0.7 l 0.6,-0.6 0.7,0.8 0.6,-1 0.7,-0.4 0.6,0.2 0.7,-0.5 h 0.6 l 0.7,-0.1 0.6,-0.3 0.7,-0.5 0.6,-0.1 h 0.7 0.6 l 0.7,-0.6 0.6,0.6 0.7,-0.9 0.6,0.3 0.7,-0.2 0.6,-0.2 0.7,-0.4 0.6,0.3 0.7,-0.7 0.7,-0.2 0.6,0.2 0.7,-0.4 0.6,0.4 0.7,-0.5 0.6,-0.2 0.7,-0.1 0.6,-0.4 h 0.7 l 0.6,-0.6 0.7,-0.5 0.6,0.5 h 0.7 l 0.6,-0.5 0.7,-0.1 0.6,0.1 0.7,-0.2 h 0.6 l 0.7,-0.2 0.6,-0.7 0.7,0.2 0.6,-0.2 0.7,-0.3 0.6,0.3 0.7,-0.3 0.6,-0.2 0.7,0.3 0.6,-0.3 0.7,-0.8 0.6,-0.1 0.7,-0.4 0.6,0.1 0.7,0.2 0.7,0.4 0.6,-0.6 h 0.7 l 0.6,-0.7 0.7,0.1 h 0.6 l 0.7,-0.4 0.6,0.1 0.7,-0.5 0.6,0.5 0.7,-0.4 0.6,-0.7 h 0.7 l 0.6,0.2 0.7,-0.4 0.6,0.1 0.7,-0.2 0.6,-0.2 0.7,-0.1 0.6,-0.2 0.7,-0.2 0.6,0.1 0.7,0.1 0.6,-0.6 0.7,0.3 0.6,-0.3 h 0.7 0.6 l 0.7,-0.1 0.6,-0.4 0.7,-0.1 h 0.6 l 0.7,-0.3 0.7,-0.1 0.6,-0.1 0.7,-0.2 h 0.6 l 0.7,-0.3 0.6,0.1 0.7,-0.3 0.6,-0.4 h 0.7 0.6 l 0.7,0.1 0.6,-0.4 0.7,-0.1 0.6,0.3 0.7,-0.4 0.6,-0.1 0.7,-0.1 0.6,0.1 0.7,-0.3 h 0.6 l 0.7,-0.1 0.6,-0.1 0.7,-0.2 h 0.6 l 0.7,-0.2 0.6,-0.2 0.7,0.3 0.6,-0.3 0.7,-0.2 h 0.6 l 0.7,-0.1 h 0.7 l 0.6,-0.1 0.7,-0.3 0.6,0.3 0.7,-0.2 0.6,-0.4 0.7,0.1 0.6,-0.3 0.7,-0.3 0.6,0.3 0.7,-0.1 0.6,-0.1 0.7,-0.1 0.6,0.1 0.7,-0.3 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,0.1 0.6,-0.2 h 0.7 0.6 0.7 l 0.6,-0.3 h 0.7 l 0.6,0.1 0.7,-0.1 0.6,-0.2 h 0.7 l 0.6,0.2 0.7,-0.6 0.6,0.1 h 0.7 l 0.7,0.1 h 0.6 l 0.7,-0.4 0.6,-0.2 0.7,0.4 0.6,-0.1 0.7,-0.4 0.6,0.1 0.7,0.2 0.6,-0.1 0.7,-0.1 0.6,0.1 0.7,-0.4 0.6,0.2 0.7,-0.1 0.6,-0.1 0.7,0.1 0.6,-0.1 h 0.7 0.6 l 0.7,-0.4 0.6,0.2 0.7,-0.2 h 0.6 0.7 l 0.6,0.2 0.7,-0.2 0.6,-0.1 0.7,0.1 0.6,0.1 0.7,-0.1 0.7,0.1 0.6,-0.2 0.7,-0.1 h 0.6 l 0.7,0.2 0.6,-0.3 0.7,0.4 0.6,-0.1 h 0.7 l 0.6,-0.2 h 0.7 l 0.6,-0.2 0.7,0.1 0.6,-0.1 0.7,-0.2 0.6,0.3 0.7,-0.1 0.6,0.2 0.7,-0.3 0.6,0.3 0.7,-0.2 0.6,0.1 0.7,-0.1 0.6,0.2 0.7,-0.2 0.6,0.1 h 0.7 l 0.6,0.1 h 0.7 l 0.6,0.1 h 0.7 l 0.6,-0.2 0.7,0.2 h 0.7 l 0.6,-0.3 0.7,0.4 0.6,-0.4 0.7,0.2 0.6,-0.1 0.7,0.3 0.6,-0.1 0.7,-0.2 h 0.6 l 0.7,0.2 0.6,-0.2 0.7,0.2 0.6,0.1 0.7,-0.3 0.6,0.1 0.7,0.1 0.6,0.1 h 0.7 0.6 0.7 l 0.6,0.2 0.7,-0.2 0.6,0.1 h 0.7 l 0.6,0.3 h 0.7 l 0.6,-0.1 0.7,-0.3 0.6,0.3 h 0.7 0.6 l 0.7,0.2 0.7,-0.2 0.6,0.2 0.7,-0.2 0.6,0.2 h 0.7 l 0.6,-0.1 0.7,0.1 0.6,0.3 0.7,-0.3 0.6,0.1 0.7,0.1 0.6,0.1 0.7,-0.3 0.6,0.3 0.7,0.1 0.6,-0.4 0.7,0.5 0.6,-0.2 0.7,0.4 0.6,-0.1 0.7,0.1 0.6,-0.1 0.7,-0.4 0.6,0.3 0.7,0.1 0.6,0.2 0.7,-0.2 0.6,0.1 0.7,-0.1 0.6,0.1 h 0.7 l 0.7,0.3 0.6,-0.3 h 0.7 l 0.6,0.2 h 0.7 l 0.6,-0.1 0.7,0.3 0.6,-0.3 0.7,0.4 0.6,-0.3 0.7,0.3 0.6,-0.2 0.7,0.4 0.6,0.1 0.7,-0.1 h 0.6 l 0.7,-0.2 0.6,0.3 0.7,-0.1 0.6,0.2 0.7,0.1 0.6,-0.2 0.7,0.3 h 0.6 0.7 0.6 0.7 l 0.6,-0.1 h 0.7 l 0.6,-0.1 0.7,0.2 h 0.6 l 0.7,0.1 0.7,0.3 0.6,-0.3 0.7,0.1 0.6,-0.3 0.7,0.4 h 0.6 l 0.7,0.2 0.6,-0.3 h 0.7 l 0.6,0.5 0.7,-0.1 0.6,-0.3 0.7,0.3 0.6,0.1 0.7,0.1 0.6,-0.3 0.7,0.1 0.6,-0.1 0.7,0.5 0.6,-0.2 0.7,-0.1 0.6,-0.2 0.7,0.3 0.6,-0.1 0.7,0.1 h 0.6 l 0.7,0.1 0.6,0.4 0.7,-0.5 0.6,0.1 0.7,-0.1 h 0.6 l 0.7,0.2 h 0.7 0.6 l 0.7,0.1 0.6,-0.2 0.7,0.3 0.6,-0.7 0.7,0.4 0.6,0.4 0.7,-0.3 0.6,0.1 0.7,-0.2 0.6,-0.1 0.7,0.7 0.6,-0.4 h 0.7 0.6 l 0.7,0.1 0.6,0.5 0.7,-0.5 0.6,0.4 0.7,-0.2 0.6,-0.1 0.7,0.2 0.6,-0.4 0.7,-0.3 0.6,0.6 0.7,-0.2 h 0.6 0.7 l 0.6,-0.1 h 0.7 l 0.7,0.1 h 0.6 0.7 l 0.6,0.3 0.7,-0.4 0.6,0.3 0.7,-0.3 0.6,0.5 0.7,-0.4 0.6,0.3 0.7,-0.2 0.6,0.2 0.7,-0.5 0.6,0.9 0.7,-0.3 0.6,-0.3 0.7,0.1 0.6,-0.2 0.7,0.1 h 0.6 l 0.7,0.3 0.6,-0.3 0.7,0.2 0.6,-0.2 0.7,0.3 0.6,-0.1 h 0.7 l 0.6,-0.3 0.7,0.2 h 0.6 l 0.7,0.1 h 0.6 l 0.7,-0.4 0.7,0.1 h 0.6 l 0.7,0.2 0.6,0.2 0.7,-0.5 0.6,0.2 0.7,-0.2 0.6,0.2 0.7,-0.2 0.6,0.3 0.7,-0.2 h 0.6 l 0.7,0.4 0.6,-0.7 0.7,0.5 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,-0.4 0.6,0.5 0.7,-0.4 0.6,0.4 0.7,-0.5 0.6,0.6 0.7,-0.3 0.6,-0.2 h 0.7 l 0.6,0.3 0.7,-0.3 0.6,0.3 0.7,-0.1 0.7,-0.2 0.6,0.2 h 0.7 0.6 l 0.7,-0.2 0.6,0.4 0.7,-0.3 0.6,0.1 0.7,-0.3 h 0.6 l 0.7,0.1 0.6,-0.3 0.7,0.2 0.6,-0.2 0.7,-0.2 0.6,0.6 0.7,-0.2 0.6,-0.1 0.7,-0.1 h 0.6 l 0.7,0.4 h 0.6 l 0.7,0.2 0.6,-0.8 0.7,0.2 0.6,-0.3 0.7,0.2 0.6,0.3 0.7,-0.2 0.6,-0.2 0.7,0.1 0.6,0.5 0.7,-0.5"
+             stroke="#99000d"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g8673"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="#99000d"
+         color="#ffffff"
+         fill="none" />
+      <g
+         id="g8675"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="2"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g8677"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="#000000"
+         color="#000000"
+         fill="none" />
+      <g
+         id="g8681"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none">
+        <path
+           id="path8679"
+           d="M 107,30.1 V 504 H 757.9 V 30.1 Z"
+           stroke="#000000"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g8683"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-width="1"
+         stroke="currentColor"
+         color="#000000"
+         fill="none" />
+    </g>
+    <rect
+       id="rect8890"
+       width="250.06905"
+       height="45.467693"
+       x="419.91385"
+       y="585.77893" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="428.50757"
+       y="620.09869"
+       id="text8896"><tspan
+         sodipodi:role="line"
+         id="tspan8894"
+         x="428.50757"
+         y="620.09869"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#ffffff;fill-opacity:1">Power : 0dBm</tspan></text>
+    <path
+       style="fill:#1074b0;fill-opacity:1;stroke:#1074b0;stroke-width:1.239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 1196.389,814.39454 72.9821,0.7053"
+       id="path9721"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="6.6683747"
+       inkscape:transform-center-y="-16.569335" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9721-1"
+       d="m 983.48178,813.08226 -72.98209,-0.7053"
+       style="fill:#169d74;fill-opacity:1;stroke:#169d74;stroke-width:1.239;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)" />
+    <ellipse
+       style="fill:#009d74;fill-opacity:0.41221374;stroke:none;stroke-width:1.35302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.544529"
+       id="path10324"
+       cx="938.07007"
+       cy="291.92685"
+       rx="28.90625"
+       ry="87.109375" />
+    <ellipse
+       ry="90.234375"
+       rx="28.90625"
+       cy="293.09872"
+       cx="992.75757"
+       id="path10324-6"
+       style="fill:#ff5d67;fill-opacity:0.53944021;stroke:none;stroke-width:1.37708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.544529" />
+  </g>
+</svg>

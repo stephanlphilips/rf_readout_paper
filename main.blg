@@ -1,51 +1,18 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: main.aux
-I couldn't open style file apsrev_lyy.bst
----line 24 of file main.aux
- : \bibstyle{apsrev_lyy
- :                     }
-I'm skipping whatever remains of this command
-I found no style file---while reading file main.aux
-You've used 4 entries,
-            0 wiz_defined-function locations,
-            93 strings with 585 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
-quote$ -- 0
-skip$ -- 0
-stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'main.blg'
+[43] biber-darwin:303> INFO - === Wed Mar  4, 2020, 15:31:03
+[66] Biber.pm:359> INFO - Reading 'main.bcf'
+[196] Biber.pm:835> INFO - Found 12 citekeys in bib section 0
+[221] Biber.pm:3670> INFO - Processing section 0
+[244] Biber.pm:3840> INFO - Looking for bibtex format file 'SiGe_ref_v1.bib' for section 0
+[255] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[276] bibtex.pm:1292> INFO - Found BibTeX data source 'SiGe_ref_v1.bib'
+[318] Utils.pm:164> WARN - Name "Christian Volk, Anasua Chatterjee, Fabio Ansaloni,Charles M. Marcus,Ferdinand Kuemmeth" has too many commas: skipping name
+[321] Utils.pm:164> WARN - month field 'Feb' in entry 'Connors2020' is not an integer - this will probably not sort properly.
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[344] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[344] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[359] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[362] bbl.pm:712> INFO - Output to main.bbl
+[362] Biber.pm:109> INFO - WARNINGS: 2
