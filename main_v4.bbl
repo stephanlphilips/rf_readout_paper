@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Volk2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CVFACMMFKAC}{%
+         family={Christian\bibnamedelima Volk},
+         familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+         suffix={Anasua\bibnamedelima Chatterjee},
+         suffixi={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Fabio Ansaloni Charles M. Marcus Ferdinand\bibnamedelima
+  Kuemmeth},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nano Lett.}%
+    }
+    \strng{namehash}{CVACFACMMFK1}
+    \strng{fullhash}{CVACFACMMFK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb https://doi.org/10.1021/acs.nanolett.9b02149
+    \endverb
+    \field{number}{8}
+    \field{pages}{5628\bibrangedash 5633}
+    \field{title}{Fast Charge Sensing of Si/SiGe Quantum Dots via a
+  High-Frequency Accumulation Gate}
+    \field{volume}{19}
+    \field{journaltitle}{Nano Lett.}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Connors2020}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CEJ}{%
+         family={Connors},
+         familyi={C\bibinitperiod},
+         given={Elliot\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={JJ},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NJM}{%
+         family={Nichol},
+         familyi={N\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CEJNJNJM1}
+    \strng{fullhash}{CEJNJNJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1103/PhysRevApplied.13.024019
+    \endverb
+    \field{issue}{2}
+    \field{pages}{024019}
+    \field{title}{Rapid High-Fidelity Spin-State Readout in
+  $\mathrm{Si}$/$\mathrm{Si}$-$\mathrm{Ge}$ Quantum Dots via rf Reflectometry}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevApplied.13.024019
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Phys. Rev. Applied}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Morton11}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MJJ}{%
+         family={Morton},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima J.L.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LBW}{%
+         family={Lovett},
+         familyi={L\bibinitperiod},
+         given={Brendon\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJJLBW1}
+    \strng{fullhash}{MJJLBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{189\bibrangedash 212}
+    \field{title}{{Hybrid Solid-State Qubits: The Powerful Role of Electron
+  Spins}}
+    \field{volume}{2}
+    \field{journaltitle}{Annual Review of Condensed Matter Physics}
+    \field{year}{2011}
+  \endentry
+
+  \entry{noiri2020radio}{article}{}
+    \name{author}{6}{}{%
+      {{hash=NA}{%
+         family={Noiri},
+         familyi={N\bibinitperiod},
+         given={Akito},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Takeda},
+         familyi={T\bibinitperiod},
+         given={Kenta},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yoneda},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nakajima},
+         familyi={N\bibinitperiod},
+         given={Takashi},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kodera},
+         familyi={K\bibinitperiod},
+         given={Tetsuo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Tarucha},
+         familyi={T\bibinitperiod},
+         given={Seigo},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{NA+1}
+    \strng{fullhash}{NATKYJNTKTTS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{2}
+    \field{pages}{947\bibrangedash 952}
+    \field{title}{Radio-Frequency-Detected Fast Charge Sensing in Undoped
+  Silicon Quantum Dots}
+    \field{volume}{20}
+    \field{journaltitle}{Nano Letters}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Schoelkopf1998}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SRJ}{%
+         family={Schoelkopf},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wahlgren},
+         familyi={W\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KAA}{%
+         family={Kozhevnikov},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Delsing},
+         familyi={D\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PDE}{%
+         family={Prober},
+         familyi={P\bibinitperiod},
+         given={D.\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Science}%
+    }
+    \strng{namehash}{SRJ+1}
+    \strng{fullhash}{SRJWPKAADPPDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    A new type of electrometer is described that uses a single-electron
+  transistor (SET) and that allows large operating speeds and extremely high
+  charge sensitivity. The SET readout was accomplished by measuring the damping
+  of a 1.7-gigahertz resonant circuit in which the device is embedded, and in
+  some ways is the electrostatic {\textquotedblleft}dual{\textquotedblright} of
+  the well-known radio-frequency superconducting quantum interference device.
+  The device is more than two orders of magnitude faster than previous
+  single-electron devices, with a constant gain from dc to greater than 100
+  megahertz. For a still-unoptimized device, a charge sensitivity of 1.2
+  {\texttimes} 10-5 e/hertz was obtained at a frequency of 1.1 megahertz, which
+  is about an order of magnitude better than a typical, 1/f-noise-limited SET,
+  and corresponds to an energy sensitivity (in joules per hertz) of about 41
+  ℏ︀.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.280.5367.1238
+    \endverb
+    \verb{eprint}
+    \verb https://science.sciencemag.org/content/280/5367/1238.full.pdf
+    \endverb
+    \field{issn}{0036-8075}
+    \field{number}{5367}
+    \field{pages}{1238\bibrangedash 1242}
+    \field{title}{The Radio-Frequency Single-Electron Transistor (RF-SET): A
+  Fast and Ultrasensitive Electrometer}
+    \verb{url}
+    \verb https://science.sciencemag.org/content/280/5367/1238
+    \endverb
+    \field{volume}{280}
+    \field{journaltitle}{Science}
+    \field{year}{1998}
+  \endentry
+
+  \entry{taskinen2008radio}{article}{}
+    \name{author}{8}{}{%
+      {{hash=TL}{%
+         family={Taskinen},
+         familyi={T\bibinitperiod},
+         given={LJ},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Starrett},
+         familyi={S\bibinitperiod},
+         given={RP},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={TP},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Micolich},
+         familyi={M\bibinitperiod},
+         given={AP},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={AR},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={MY},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={DA},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pepper},
+         familyi={P\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Institute of Physics}%
+    }
+    \strng{namehash}{TL+1}
+    \strng{fullhash}{TLSRMTMAHASMRDPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{12}
+    \field{pages}{123901}
+    \field{title}{Radio-frequency reflectometry on large gated two-dimensional
+  systems}
+    \field{volume}{79}
+    \field{journaltitle}{Review of Scientific Instruments}
+    \field{year}{2008}
+  \endentry
+
+  \entry{van2018automated}{article}{}
+    \name{author}{8}{}{%
+      {{hash=VDC}{%
+         family={Van\bibnamedelima Diepen},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={CJ},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=EPT}{%
+         family={Eendebak},
+         familyi={E\bibinitperiod},
+         given={Pieter\bibnamedelima T},
+         giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=BBT}{%
+         family={Buijtendorp},
+         familyi={B\bibinitperiod},
+         given={Bruno\bibnamedelima T},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MU}{%
+         family={Mukhopadhyay},
+         familyi={M\bibinitperiod},
+         given={Uditendu},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=FT}{%
+         family={Fujita},
+         familyi={F\bibinitperiod},
+         given={Takafumi},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Reichl},
+         familyi={R\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wegscheider},
+         familyi={W\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=VLM}{%
+         family={Vandersypen},
+         familyi={V\bibinitperiod},
+         given={Lieven\bibnamedelima MK},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {AIP Publishing LLC}%
+    }
+    \strng{namehash}{VDC+1}
+    \strng{fullhash}{VDCEPTBBTMUFTRCWWVLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{3}
+    \field{pages}{033101}
+    \field{title}{Automated tuning of inter-dot tunnel coupling in double
+  quantum dots}
+    \field{volume}{113}
+    \field{journaltitle}{Applied Physics Letters}
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput
