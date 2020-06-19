@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  27 MAY 2020 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  19 JUN 2020 00:17
 entering extended mode
 **./main_v4.tex
 (main_v4.tex
@@ -608,7 +608,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <figures/overview3.pdf, id=16, 2280.52pt x 1104.125pt>
 File: figures/overview3.pdf Graphic file (type pdf)
 <use figures/overview3.pdf>
-Package pdftex.def Info: figures/overview3.pdf  used on input line 63.
+Package pdftex.def Info: figures/overview3.pdf  used on input line 62.
 (pdftex.def)             Requested size: 345.0pt x 167.0268pt.
 
 
@@ -621,22 +621,28 @@ ion: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/HarvardFigure2_v7.pdf, id=186, 963.6pt x 542.025pt>
 File: figures/HarvardFigure2_v7.pdf Graphic file (type pdf)
 <use figures/HarvardFigure2_v7.pdf>
-Package pdftex.def Info: figures/HarvardFigure2_v7.pdf  used on input line 90.
+Package pdftex.def Info: figures/HarvardFigure2_v7.pdf  used on input line 87.
 (pdftex.def)             Requested size: 345.0pt x 194.06194pt.
 [5 <./figures/HarvardFigure2_v7.pdf>] [6] [7]
 <figures/Theory_figure/theory_delft_v3.pdf, id=249, 913.56812pt x 394.97461pt>
 File: figures/Theory_figure/theory_delft_v3.pdf Graphic file (type pdf)
 <use figures/Theory_figure/theory_delft_v3.pdf>
 Package pdftex.def Info: figures/Theory_figure/theory_delft_v3.pdf  used on inp
-ut line 144.
+ut line 141.
 (pdftex.def)             Requested size: 345.0pt x 149.15775pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--161
+Underfull \hbox (badness 10000) in paragraph at lines 146--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--161
+Overfull \hbox (9.47375pt too wide) in paragraph at lines 146--158
+\OT1/cmr/m/n/10 method. For the sam-ples used with the meth-ods, a match-ing re
+-sis-tance ($\OML/cmm/m/it/10 R[]$\OT1/cmr/m/n/10 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--158
 
  []
 
@@ -652,7 +658,7 @@ eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=figures/Performance_figure/
 perfomance_fig-eps-converted-to.pdf figures/Performance_figure/perfomance_fig.e
 ps>
-(epstopdf)             \includegraphics on input line 165.
+(epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -665,53 +671,63 @@ File: figures/Performance_figure/perfomance_fig-eps-converted-to.pdf Graphic fi
 le (type pdf)
 <use figures/Performance_figure/perfomance_fig-eps-converted-to.pdf>
 Package pdftex.def Info: figures/Performance_figure/perfomance_fig-eps-converte
-d-to.pdf  used on input line 165.
+d-to.pdf  used on input line 162.
 (pdftex.def)             Requested size: 345.0pt x 266.72156pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--179
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--179
-
- []
-
-[9] [10 <./figures/Performance_figure/perfomance_fig-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 181--190
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--190
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
 
  []
 
-[11]
+[10] [11 <./figures/Performance_figure/perfomance_fig-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
+
+ []
+
+[12]
 Overfull \hbox (2.10397pt too wide) in paragraph at lines 192--192
 \OT1/cmtt/m/n/10 13 . 024019$\OT1/cmr/m/n/10 . \OT1/cmr/m/sc/10 url\OT1/cmr/m/n
 /10 : $\OT1/cmtt/m/n/10 https : / / link . aps . org / doi / 10 . 1103 / PhysRe
 vApplied .
  []
 
-[12] [13] (main_v4.aux)
+[13] (main_v4.aux)
 Package logreq Info: Writing requests to 'main_v4.run.xml'.
 \openout1 = `main_v4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11426 strings out of 480799
- 203422 string characters out of 2895784
- 667790 words of memory out of 3000000
- 27292 multiletter control sequences out of 15000+200000
+ 11427 strings out of 480799
+ 203433 string characters out of 2895784
+ 664799 words of memory out of 3000000
+ 27293 multiletter control sequences out of 15000+200000
  541650 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,45p,1415b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,45p,1415b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\steph\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx12.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/font
@@ -723,16 +739,18 @@ l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/steph
 mr10.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmr12.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/steph/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/steph/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/s
-teph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmti10.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmtt10.pfb>
-Output written on main_v4.pdf (13 pages, 14998082 bytes).
+2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/steph/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/steph/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ste
+ph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
+:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy7.pfb><C:/Users/steph/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><C:/Users/steph/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main_v4.pdf (13 pages, 15017391 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
+ 618 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
