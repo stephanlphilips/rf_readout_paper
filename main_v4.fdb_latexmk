@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main_v4"] 1593764561 "main_v4.aux" "main_v4.bbl" "main_v4" 1593765264
+["bibtex main_v4"] 1594906964 "main_v4.aux" "main_v4.bbl" "main_v4" 1594906994
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1480098434 63002 075c3f13314e99e71e6ff0a472a98980 ""
-  "SiGe_ref_v1.bib" 1590565994 60104 52f69e966afdd5f77938494d076c03e8 ""
-  "main_v4-blx.bib" 1593765263 306 5c81b98dd64f8a491ca726a8d8060b23 ""
-  "main_v4.aux" 1593765264 7033 fd7aaa9710e39fd91a199d13839012ff ""
+  "SiGe_ref_v1.bib" 1594889060 60705 60624900220523d43d94063fb7044f0a ""
+  "main_v4-blx.bib" 1594906965 306 5c81b98dd64f8a491ca726a8d8060b23 ""
+  "main_v4.aux" 1594906966 7237 9ad37aef55af30f84cbca1db666c22bd ""
   (generated)
   "main_v4.bbl"
   "main_v4.blg"
-["pdflatex"] 1593765263 "main_v4.tex" "main_v4.pdf" "main_v4" 1593765264
+["pdflatex"] 1594906964 "main_v4.tex" "main_v4.pdf" "main_v4" 1594906994
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -111,16 +111,16 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1516291866 4129592 dfde8248385bb0cb85b0b7dd9d875bd5 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "figures/HarvardFigure2_v7.pdf" 1590477463 212375 d4605c5cf7dab08f511d4dd7f082f500 ""
-  "figures/Performance_figure/perfomance_fig_w_inset.eps" 1593764159 3604754 c4c6fd221f09351392f600fa3cdbf111 ""
+  "figures/Performance_figure/perfomance_fig_w_inset.eps" 1594906592 3864886 6cc75fdb4b8d082d9a65dab8a6d70b9b ""
   "figures/Theory_figure/theory_delft_v3.pdf" 1590477464 1340052 83b0e0512deb00e43d14aa4710236128 ""
   "figures/overview3.pdf" 1590477464 13264406 007d9d2ff92f0b0fa765083f694e8466 ""
-  "main_v4.aux" 1593765264 7033 fd7aaa9710e39fd91a199d13839012ff ""
-  "main_v4.bbl" 1593764561 11848 f5c798b11a44f8bf903bb54db4c636b1 "bibtex main_v4"
-  "main_v4.run.xml" 1593765264 2550 ddf9e96add49443c2f7031cde3f6761e ""
-  "main_v4.tex" 1593765263 32177 2bb9ad3002a6fd39c7414b2ed18c8d1a ""
+  "main_v4.aux" 1594906966 7237 9ad37aef55af30f84cbca1db666c22bd ""
+  "main_v4.bbl" 1594906964 13842 07c2b09d6766895840c735d16ad393ba "bibtex main_v4"
+  "main_v4.run.xml" 1594906966 2550 ddf9e96add49443c2f7031cde3f6761e ""
+  "main_v4.tex" 1594906961 32076 2bce7a4c0aed2bfce75264e1f6f17f4b ""
   (generated)
+  "main_v4.run.xml"
+  "main_v4.aux"
+  "main_v4.log"
   "main_v4.pdf"
   "main_v4-blx.bib"
-  "main_v4.aux"
-  "main_v4.run.xml"
-  "main_v4.log"

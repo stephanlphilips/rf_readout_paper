@@ -184,6 +184,77 @@
     \field{year}{2020}
   \endentry
 
+  \entry{Samkharadze2016}{article}{}
+    \name{author}{7}{}{%
+      {{hash=SN}{%
+         family={Samkharadze},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bruno},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Scarlino},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DDP}{%
+         family={DiVincenzo},
+         familyi={D\bibinitperiod},
+         given={D.\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={DiCarlo},
+         familyi={D\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VLMK}{%
+         family={Vandersypen},
+         familyi={V\bibinitperiod},
+         given={L.\bibnamedelima M.\bibnamedelima K.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SN+1}
+    \strng{fullhash}{SNBASPZGDDPDLVLMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1103/PhysRevApplied.5.044004
+    \endverb
+    \field{issue}{4}
+    \field{pages}{044004}
+    \field{title}{High-Kinetic-Inductance Superconducting Nanowire Resonators
+  for Circuit QED in a Magnetic Field}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevApplied.5.044004
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Phys. Rev. Applied}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{Schoelkopf1998}{article}{}
     \name{author}{5}{}{%
       {{hash=SRJ}{%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.18)  3 JUL 2020 10:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.18)  16 JUL 2020 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -531,14 +531,21 @@ Package biblatex Info: Data encoding 'ascii' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main_v4.bbl' found.
 
-(./main_v4.bbl)
+(./main_v4.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Samkharadze2016':
+(biblatex)                - Invalid format of field 'month'.
+
+)
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for U+msa on input line 45.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 45.
@@ -611,12 +618,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--158
 [8 <./figures/Theory_figure/theory_delft_v3.pdf>]
 Package epstopdf Info: Source file: <figures/Performance_figure/perfomance_fig_
 w_inset.eps>
-(epstopdf)                    date: 2020-07-03 10:15:59
-(epstopdf)                    size: 3604754 bytes
+(epstopdf)                    date: 2020-07-16 15:36:32
+(epstopdf)                    size: 3864886 bytes
 (epstopdf)             Output file: <figures/Performance_figure/perfomance_fig_
 w_inset-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-03 10:22:41
-(epstopdf)                    size: 393252 bytes
+(epstopdf)                    date: 2020-07-16 15:40:32
+(epstopdf)                    size: 425532 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/Performance_figure
 /perfomance_fig_w_inset-eps-converted-to.pdf figures/Performance_figure/perfoma
 nce_fig_w_inset.eps>
@@ -675,16 +682,22 @@ Overfull \hbox (2.10397pt too wide) in paragraph at lines 193--193
 vApplied .
  []
 
+
+Overfull \hbox (2.59286pt too wide) in paragraph at lines 193--193
+[]\OT1/cmr/m/n/10 N. Samkharadze et al. ``High-Kinetic-Inductance Su-per-con-du
+ct-ing Nanowire
+ []
+
 [13] (./main_v4.aux)
 Package logreq Info: Writing requests to 'main_v4.run.xml'.
 \openout1 = `main_v4.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10181 strings out of 492995
- 171831 string characters out of 6132704
+ 10183 strings out of 492995
+ 171912 string characters out of 6132704
  436774 words of memory out of 5000000
- 13595 multiletter control sequences out of 15000+600000
+ 13597 multiletter control sequences out of 15000+600000
  12617 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,6n,45p,1406b,1471s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -702,10 +715,10 @@ ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
 /2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main_v4.pdf (13 pages, 15261287 bytes).
+Output written on main_v4.pdf (13 pages, 15292781 bytes).
 PDF statistics:
- 612 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
+ 615 PDF objects out of 1000 (max. 8388607)
+ 253 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
